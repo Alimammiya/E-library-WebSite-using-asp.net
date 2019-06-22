@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1rt Unit</title>
+  
+</head>
+<body>
+<table border="3px"width="900"   p align="center">
+<td border="1px" width="200">
+ <p style="text-align: center;"><strong><u><span style="font-size: 18.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Algorithm and Programming Development</span></u></strong></p>
+ <span style="font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">
+   <b>(1.) What do you mean by algorithm? </b><br>
+   An algorithm (pronounced AL-go-rith-um) is a procedure or formula for solving a problem, based on conducting a sequence of specified actions. A computer program can be viewed as an elaborate algorithm. In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem.<p>
+   	<b>The characteristics of a good algorithm are:-</b><br>
+   	•	Precision – the steps are precisely stated(defined).
+    •	Uniqueness – results of each step are uniquely defined and only depend on the input and the result of the preceding steps.<br>
+    •	Finiteness – the algorithm stops after a finite number of instructions are executed.<br>
+   •	Input – the algorithm receives input.<br>
+   •	Output – the algorithm produces output.<br>
+   •	Generality – the algorithm applies to a set of inputs.<br><p>
+   	<b>Some examples of algorithm:-</b><br>
+   	<b>Write an algorithm to add two numbers entered by user.</b><br>
+   	Step 1: Start
+    Step 2: Declare variables num1, num2 and sum. 
+    Step 3: Read values num1 and num2. 
+    Step 4: Add num1 and num2 and assign the result to sum.
+        sum←num1+num2 
+    Step 5: Display sum 
+    Step 6: Stop<p>
+    <b>Write an algorithm to find the largest among three different numbers entered by user.</b><br>
+    Write an algorithm to find the largest among three different numbers entered by user.<br>
+Step 1: Start<br>
+Step 2: Declare variables a,b and c.<br>
+Step 3: Read variables a,b and c.<br>
+Step 4: If a>b<br>
+           If a>c<br>
+              Display a is the largest number.<br>
+           Else<br>
+              Display c is the largest number.<br>
+        Else<br>
+           If b>c<br>
+              Display b is the largest number.<br>
+           Else<br>
+              Display c is the greatest number.  <br>
+Step 5: Stop<br><p>
+	<b>Write an algorithm to find all roots of a quadratic equation ax2+bx+c=0.</b><br>
+	Step 1: Start<br>
+Step 2: Declare variables a, b, c, D, x1, x2, rp and ip;<br>
+Step 3: Calculate discriminant<br>
+         D←b2-4ac<br>
+Step 4: If D≥0<br>
+              r1←(-b+√D)/2a<br>
+              r2←(-b-√D)/2a <br>
+              Display r1 and r2 as roots.<br>
+        Else     <br>
+              Calculate real part and imaginary part<br>
+              rp←b/2a<br>
+              ip←√(-D)/2a<br>
+              Display rp+j(ip) and rp-j(ip) as roots<br>
+Step 5: Stop<br> <p>
+	<b>Write an algorithm to find the factorial of a number entered by user.</b><br>
+	Step 1: Start<br>
+Step 2: Declare variables n,factorial and i.<br>
+Step 3: Initialize variables<br>
+          factorial←1<br>
+          i←1<br>
+Step 4: Read value of n<br>
+Step 5: Repeat the steps until i=n<br>
+     5.1: factorial←factorial*i<br>
+     5.2: i←i+1<br>
+Step 6: Display factorial<br>
+Step 7: Stop<br><p>
+<b>Write an algorithm to check whether a number entered by user is prime or not.</b><br>
+Step 1: Start<br>
+Step 2: Declare variables n,i,flag.<br>
+Step 3: Initialize variables<br>
+        flag←1<br>
+        i←2  <br>
+Step 4: Read n from user.<br>
+Step 5: Repeat the steps until i<(n/2)<br>
+     5.1 If remainder of n÷i equals 0<br>
+            flag←0<br>
+            Go to step 6<br>
+     5.2 i←i+1<br>
+Step 6: If flag=0<br>
+           Display n is not prime<br>
+        else<br>
+           Display n is prime<br>
+Step 7: Stop <br><p>
+	<b>Write an algorithm to find the Fibonacci series till term≤1000.</b><br>
+	Step 1: Start <br>
+Step 2: Declare variables first_term,second_term and temp. <br>
+Step 3: Initialize variables first_term←0 second_term←1 <br>
+Step 4: Display first_term and second_term <br>
+Step 5: Repeat the steps until second_term≤1000 <br>
+     5.1: temp←second_term <br>
+     5.2: second_term←second_term+first term <br>
+     5.3: first_term←temp <br>
+     5.4: Display second_term <br>
+Step 6: Stop<br><p>
+Algorithm is not the computer code. Algorithm are just the instructions which gives clear idea to you idea to write the computer code.<p>
+	<b>(2.) What do you mean by flow chart and also define its notations?</b><br>
+	<b>Definition of Flowchart:-</b><br>
+	A flowchart is the graphical or pictorial representation of an algorithm with the help of different symbols, shapes and arrows in order to demonstrate a process or a program. With algorithms, we can easily understand a program. The main purpose of a flowchart is to analyze different processes. Several standard graphics are applied in a flowchart:-<br>
+	<b>images</b><br>
+	The graphics above represent different part of a flowchart. The process in a flowchart can be expressed through boxes and arrows with different sizes and colours. In a flowchart, we can easily highlight a certain element and the relationships between each part. 
+	</p>
+ <b>Some examples of flow chart:-</b><br>
+ <b>Example 1:- Print 1 to 20:</b><br>
+ <b>Algorithm:</b><br>
+ Step 1: Initialize X as 0,<br>
+Step 2: Increment X by 1,<br>
+Step 3: Print X,<br>
+Step 4: If X is less than 20 then go back to step 2.<br><p>
+	<b>Flowchart:</b><br>
+	<b>images</b><p>
+<b>Example 2: Convert Temperature from Fahrenheit (℉) to Celsius (℃):</b><br>
+<b>Algorithm:</b><br>
+Step 1: Read temperature in Fahrenheit<br>
+Step 2: Calculate temperature with formula C=5/9*(F-32)<br>
+Step 3: Print C<br><p>
+<b>Flowchart:</b><br>
+<b>images</b><p>
+<b>(3.) What is ‘C’? What do you mean by procedural oriented programing?</b><br>
+‘C’ was written by Dennis Ritchie. Brian Kernighan in 1978.<br>
+This language is consider as the basic language and the whole kernel of Linux is written in C. Maximum part of your Linux distribution like Ubuntu, Fedora, Cent , Debian , Mint, Red Hat Linux etc. is in C language.<br>
+
+<b>Procedural Oriented Programming:-</b><br>
+1.  C languages uses the set of instruction to inform/guide computer what to do step by step.<br>
+2.  Its depend in the procedures, more specifically routines or sub routines.<br>
+3.  As it follows the procedures hence it adopt top-down approach.<br>
+4.  Apart from other languages like C++, C languages is very much focused on procedure that relates with the data .<br>
+5.  C languages is much focused on the data hence on functions.<br>
+6.  It is also well known as structured programming language.<br><p>
+<b>(4.) What are the steps of developing a Programme?</b><br>
+To begin with, writing a program involves several steps (we will consider others in the future):-<br>
+1.	Designing<br>
+2.	Encoding<br>
+3.	Decoding  <br>
+4.	Debugging <br>
+5.	Documentation <br><p>
+<b>What do you mean by debugging? </b><br>
+Debugging is the routine process of locating and removing computer program bugs, errors or abnormalities, which is methodically handled by software programmers via debugging tools. Debugging checks, detects and corrects errors or bugs to allow proper program operation according to set specifications. <br><p>
+<b>What are the errors and types of errors?</b><br>
+In computer programming, a logic error is a bug in a program that causes it to operate incorrectly, but not to terminate abnormally (or crash). A logic error produces unintended or undesired output or other behaviour.<br>
+<b>Types of program errors:-</b>
+We distinguish between the following types of errors:-<br>
+1.	Syntax errors: errors due to the fact that the syntax of the language is not respected. <br>
+2.	Semantic errors: errors due to an improper use of program statements. <br>
+3.	Logical errors: errors due to the fact that the specification is not respected. <br>
+From the point of view of when errors are detected, we distinguish:-<br>
+1.	Compile time errors: syntax errors and static semantic errors indicated by the compiler. <br>
+2.	Runtime errors: dynamic semantic errors, and logical errors, that cannot be detected by the compiler (debugging). <br><p>
+<b>What is a bug?</b><br>
+In  computer technology, a bug is a coding error in a computer program. (Here we consider a program to also include the microcode that is manufactured into a microprocessor.) The process of finding bugs before program users do is called debugging. Debugging starts after the code is first written and continues in successive stages as code is combined with other units of programming to form a software product, such as an operating system or an application. After a product is released or during public beta testing, bugs are still apt to be discovered. When this occurs, users have to either find a way to avoid using the "buggy" code or get a patch from the originators of the code.<br><p>
+
+</span>
+</td>
+</table>
+</body>
+</html>

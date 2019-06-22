@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>2nd Unit</title>
+  
+</head>
+<body>
+<table border="3px"width="900"   p align="center">
+<td border="1px" width="200">
+ <p style="text-align: center;"><strong><u><span style="font-size: 18.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">Programme structure </span></u></strong></p>
+ <span style="font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">
+
+<b>(1.) What do you mean by header files and state their uses.</b>&nbsp;  OR<br>
+<b>What do you mean by pre-processor directives?</b><br>
+A header file is a file containing C declarations and macro definitions (see Macros) to be shared between several source files. You request the use of a header file in your program by including it, with the C pre-processing directive ‘#include’. <br>
+<b>Header files serve two purposes:-</b><br>
+•	System header files declare the interfaces to parts of the operating system. You include them in your program to supply the definitions and declarations you need to invoke system calls and libraries. <br>
+•	Your own header files contain declarations for interfaces between the source files of your program. Each time you have a group of related declarations and macro definitions all or most of which are needed in several different source files, it is a good idea to create a header file for them. <br>
+Including a header file produces the same results as copying the header file into each source file that needs it. Such copying would be time-consuming and error-prone. With a header file, the related declarations appear in only one place. If they need to be changed, they can be changed in one place, and programs that include the header file will automatically use the new version when next recompiled. The header file eliminates the labor of finding and changing all the copies as well as the risk that a failure to find one copy will result in inconsistencies within a program. <br>
+In C, the usual convention is to give header files names that end with .h. It is most portable to use only letters, digits, dashes, and underscores in header file names, and at most one dot. <br><p>
+<b>(2.) What do you mean by variables?</b><br>
+Variables in C<br>
+A variable is a name of memory location. It is used to store data. Its value can be changed and it can be reused many times.<br>
+It is a way to represent memory location through symbol so that it can be easily identified.<br>
+Let's see the syntax to declare a variable:<br>
+1.	type variable_list;  <br>
+The example of declaring variable is given below: <br>
+1.	int a;  <br>
+2.	float b;  <br><br>
+3.	char c;  <br>
+Here, a, b, c are variables and int,float,char are data types.<br>
+We can also provide values while declaring the variables as given below:<br>
+1.	int a=10,b=20;//declaring 2 variable of integer type  <br>
+2.	float f=20.8;  <br>
+3.	char c='A';  <br><p>
+<b>(3.) What are the input output statements in c?</b><br>
+There are some library functions which are available for transferring the information between the computer and the standard input and output devices.
+These functions are related to the symbolic constants and are available in the header file.<br>
+<b>Some of the input and output functions are as follows:-</b><br>
+<b>(a.) printf</b><br>
+This function is used for displaying the output on the screen i.e the data is moved from the computer memory to the output device. <br>
+<b>Syntax:</b><br>
+printf(“format string”, arg1, arg2, …..);<br>
+In the above syntax, 'format string' will contain the information that is formatted. They are the general characters which will be displayed as they are .<br>
+arg1, arg2 are the output data items.<br>
+<b>Example: </b>Demonstrating the printf function<br>
+printf(“Enter a value:”);<br>
+•	<b>printf</b> will generally examine from left to right of the string.
+•	The characters are displayed on the screen in the manner they are encountered until it comes across % or \. <br>
+•	Once it comes across the conversion specifiers it will take the first argument and print it in the format given.<p>
+<b>(b.) scanf</b><br>
+scanf is used when we enter data by using an input device.<br>
+<b>Syntax:</b><br>
+scanf (“format string”, &arg1, &arg2, …..);<br>
+The number of items which are successful are returned.<br>
+Format string consists of the conversion specifier. Arguments can be variables or array name and represent the address of the variable. Each variable must be preceded by an ampersand (&). Array names should never begin with an ampersand. <br>
+<b>Example:</b> Demonstrating scanf<br>
+int avg;<br>
+float per;<br>
+char grade;<br>
+scanf(“%d %f %c”,&avg, &per, &grade):<br>
+•	<b>scanf</b> works totally opposite to <b>printf</b>. The input is read, interpret using the conversion specifier and stores it in the given variable.<br>
+•	The conversion specifier for <b>scanf</b> is the same as <b>printf</b>. 
+•	scanf reads the characters from the input as long as the characters match or it will terminate. The order of the characters that are entered are not important.<br>
+•	It requires an enter key in order to accept an input.<br><p>
+<b>(c.) getchar</b><br>
+This function is used to input a single character. The enter key is pressed which is followed by the character that is typed. The character that is entered is echoed.<p>
+<b>Syntax:</b><br>
+ch=getchar;<p>
+	<b>putchar</b><br>
+	This function is the other side of getchar. A single character is displayed on the screen.<br>
+<b>Syntax:</b><br>
+putchar(ch);<p>
+
+<b>(4.)	What are the functions of gets and puts function in c?</b><br>
+<b>gets and puts</b>
+They help in transferring the strings between the computer and the standard input-output devices. Only single arguments are accepted. The arguments must be such that it represents a string. It may include white space characters. If gets is used enter key has to be pressed for ending the string. The gets and puts function are used to offer simple alternatives of scanf and printf for reading and displaying.
+<b>Example:</b>
+#include <stdio.h><br>
+void main()<br>
+{<br>
+    char line[30];<br>
+    gets (line);<br>
+    puts (line);<br>
+} <p>
+
+<b>(5.)What are the keywords and constants in c?</b><br>
+<b>Keywords</b><br>
+<b>Following table provides with all the keywords:</b><br>
+Auto,	break,	case,	char<br>
+Const,	continue,	default,	double<br>
+Else,	enum,	extern,	float<br>
+For	goto,	int,	long<br>
+register,	return,	short,	signed<br>
+Sizeof,	struct,	switch,	typedef<br>
+Union,	unsigned,	void,	volatile<br>
+Do,	if,	static,	while<br>
+<b>Identifiers</b>
+Identifiers are the names given to the variables, constants, functions and the user-defined data.<br>
+Identifiers are written by keeping in mind a set of rules.<br>
+
+<b>The rules are as follows:</b><Br>
+Special characters or punctuation marks like #, $, ^,?, . etc cannot be included. But an '_' underscore can be used.<br>
+2. Two successive underscores cannot be used at the same time.<br>
+3. Any keywords cannot be used as an identifier.<br>
+4. Identifiers are case-sensitive.<br>
+5. The identifier name can begin with an alphabet or an underscore.<br>
+6. An identifier can be of any reasonable length, but it should not contain more than 31 characters.<p>
+<b>(6.) What are the variables and constants in c?</b><br>
+<b>Variables:-</b><br>
+•	A meaningful name given to a data storage location in the computer memory is known as a Variable.<br>
+•	When a variable is used it actually refers to a address of the memory where the data is stored.<br>
+•	A variable name can comprise of letters, digits and underscore characters.<br>
+•	The first character has to be an alphabet.<br>
+•	There should be no commas or blank spaces between the variable names.<br>
+<b>Variable declaration:-</b><br>
+All the variables that we wish to use in the program need to be declared. <br>
+<b>Syntax:-</b><br>
+data-type  variable-name;<br>
+In the above syntax a data-type is declared along with a variable name.<br>
+Meaningful names should be given to the variables.<br>
+
+<b>Example:-</b>
+ A simple variable declaration.<br>
+int emp_id;<br>
+float salary<br>
+Variables can be declared anywhere in the program according to their needs.<br>
+Multiple variables can also be declared in one statement but the data-type has to be the same.<br>
+<b>Example:-</b> Multiple variable declaration<br>
+float salary, bonus;<br>
+
+<b>Generally variables are declared in three places as follows:-</b><br>
+<b>Local variable </b>is declared inside the function.<br>
+<b>. Formal parameters </b>are declared in the definition of the function parameters.<br>
+<b>Global variables</b>are declared outside all the functions.<Br><p>
+	<b>Constants</b><br>
+	The identifiers whose value does not/ cannot change are known as Constants.<br>
+Variables can change their values but constants will never change their value.<br>
+<b>Types of constants</b><br>
+<b>There are three types of constants:-</b><br>
+<b>(a.) Integer constants</b>An integer quantity which contains a sequence of digits is known as an Integer constant. There are no decimal points.<br>
+•	They can be either positive or negative.<br>
+•	Blanks and commas are not allowed.<br>
+•	Its value must lie within the range of its values.<br>
+Example: A decimal integer which consists of any combinations of the digits from 0 to 9.<br>
+0  5250   9990<br>
+<b>Example:-</b> An octal integer constant which is a combination of digits from 0 through 7. Its first digit should always be a 0.<br>
+0    03   0567<br>
+<b>Example:-</b> Hexadecimal integer begin with 0x or 0X followed by the combination of the digits from 0 through 9 and a through f.<br>
+0x   0x4   0xcdf<br>
+Certain suffixes are given to the constants. <br><p>
+<b>The suffixes are given for the following types.</b><br>
+Long – I or L<br>
+Unsigned long – ul or UL.<br>
+<b>Example:-</b><br>
+6000U     &nbsp;&nbsp;&nbsp;unsigned (decimal)<br>
+0x3000U   &nbsp;&nbsp;&nbsp;unsigned (hexadecimal)<br>
+3421ul    &nbsp;&nbsp;&nbsp;unsigned long(decimal)<br>
+0325U     &nbsp;&nbsp;&nbsp; unsigned (octal)<br><p>
+<b>(b.)Floating point constants </b><br>
+These type of constants contain a decimal point or an exponent. They can be either negative or positive. Commas or blanks are not allowed within a real constant.<br>
+<b>Example:-</b>Floating point constants<br>
++3.2f-4     -0.3e-3    325.0     -33.75<br>
+Unlike the integer constants they too have a suffix for the following type:-<br>
+Float – f or F<br>
+Long double – I or L<br><p>
+	<b>(c.) Character constant</b><br>
+	They consist of a single character which are enclosed in single quotes. <br>
+	<b>Example:-</b> Character constant<br>
+    'b'  '@'  '5'<br>
+    The characters are stored by using the machines character set using the ASCII code.<br><p>
+ <b>Constants declaration </b><br>
+ A constant can be declared by using the const keyword and assigning it a value.<br>
+ <b>Example:-</b> Simple constant<br>
+const float pi = 3.14;<br>
+The const keyword tells us that the value of pi can never be changed.<br>
+Other way of declaring the constant is by using the pre-processor command define. #define can be placed anywhere in the program.<br>
+<b>Example:-</b> declaring a constant by using a pre-processor
+#define pi 3.14159<br><p>
+	<b>(7.)	What are the data types in c?</b><br>
+	Data types in c refer to an extensive system used for declaring variables or functions of different types. The type of a variable determines how much space it occupies in storage ad how the bit pattern stored is interpreted.<Br>
+	<b>The types in C can be classified as follows −</b><br>
+	<b>Basic Types:-</b>They are arithmetic types and are further classified into: (a) integer types and (b) floating-point types.<br>
+	<b>Enumerated types:-</b>They are again arithmetic types and they are used to define variables that can only assign certain discrete integer values throughout the program.<br>
+	<b>The type void:-</b>The type specifier void indicates that no value is available.</Br>
+	<b>Derived types:-</b>They include (a) Pointer types, (b) Array types, (c) Structure types, (d) Union types and (e) Function types.
+    The array types and structure types are referred collectively as the aggregate types. The type of a function specifies the type of the function's return value. We will see the basic types in the following section, where as other types will be covered in the upcoming chapters.<br><p>
+<b>Integer Types</b><br>
+The following table provides the details of standard integer types with their storage sizes and value ranges −<br>
+<b>images</b><br>
+To get the exact size of a type or a variable on a particular platform, you can use the size of operator. The expressions size of(type) yields the storage size of the object or type in bytes. Given below is an example to get the size of int type on any machine −<br><p>
+	<b>Floating-Point Types</b><br>
+	The following table provide the details of standard floating-point types with storage sizes and value ranges and their precision −<br>
+	<b>images</b><br>
+	The header file float.h defines macros that allow you to use these values and other details about the binary representation of real numbers in your programs. The following example prints the storage space taken by a float type and its range values. <br><p>
+   <b>Character data type:</b><br>
+   •	Character data type allows a variable to store only one character.<br>
+   •	Storage size of character data type is 1. We can store only one <br>character using character data type.<br>
+   •	“char” keyword is used to refer character data type.<br>
+   •	For example, ‘A’ can be stored using char datatype. You can’t store more than one character using char data type.<br>
+   •	Please refer C – Strings topic to know how to store more than one characters in a variable.<br><p>
+<b>(8.)	What are the operators in c and also explain their working with example.</b><br>
+A symbol which specifies the mathematical, logical or relational operations for performing actions is defined as an operation.<br>
+<b>Operators are categorized in the following groups:-</b><br>
+Arithmetic operators<br>
+2. Relational operators<br>
+3. Equality operators<br>
+4. Logical operators<br>
+5. Unary operators<br>
+6. Conditional operators<br>
+7. Bitwise operators<br>
+8. Assignment operators<br>
+9. Comma operator<br>
+10. Size of operator<br><p>
+<b>1. Arithmetic operators:-</b><br>
+C supports five arithmetic operators which are as follows:<br>
+<b>images</b><br>
+The operands must contain only the numeric values like integer, float or character quantities. If both the operands are divided then the result will also be an integer.<br>
+If both the operands or either of it are floating point then the result will be a floating point.<br>
+<b>Example:-</b> Demonstrate arithmetic operator<br>
+float pi=3.14;<br>
+int rad=3;<br>
+float area;<br>
+area=pi*r*r; //Multiplication arithmetic operator.</p>
+<b>2. Relational Operator</b><br>
+A relational operator is also known as a Comparison operator. It compares two values. They return the true or false value depending on the conditional relationship between the two operands.<br>
+<b>The relational operators are as follows:-</b>
+<b>images</b><br>
+These operators are evaluated from left to right.</p>
+<b>3. Equality operator</b><br>
+There are two types of equality operators that are supported by C. <br>
+<b>They are as follows:-</b>
+<b>images</b></p>
+<b>4. Logical Operators</b><br>
+C supports three types of operators which are as follows: <br>
+<b>images</b><br>
+<b>Truth table for all the operators:-</b>
+<b>images</b></p>
+<b>5. Unary operators</b><br>
+These operators act on the single operands. There are three types of operators minus, increment and decrement.<br>
+<b>i) Minus operator</b><br>
+A minus sign is preceded to a numerical constant, variable or expression. Used for negation. It has a different meaning than the arithmetic subtraction.<br>
+<b>Example:-</b> 
+-3  -5.0<br>
+<b>ii) Increment and decrement operator</b><br>
+The increment operator increases the value of the operand by 1. Similarly, the decrement operator decreases the value of the operand by 1.
+They have two variants: prefix and postfix. <br>
+Prefix: Here, the expression is applied before the operator.<br>
+<b>Example:-</b> Demonstrating prefix</br>
+a=++b;<br>
+Here, the value of b is returned before incrementing.<br>
+<b>Postfix:-</b> Here, the expression is applied after the operator.<br>
+<b>Example:-</b> Demonstrating postfix<br>
+a=b++;<br>
+Here, the value of b is incremented and then returned.</p>
+<b>6. Conditional operator</b><br>
+They are also called as Ternary operator (? :). This operator is just like the if-else statement which can be within the expression. It can be used where there are more than two or more alternatives given for an expression.<br>
+<b>Syntax:-</b><br>
+exp1 ? exp2 : exp3 <br>
+In the above syntax, exp1 will be evaluated first. If exp1 is true then exp2 is evaluated and it becomes the result of the expression else exp3 is evaluated and it becomes the result of the expression.<br>
+<b>Example:-</b> Demonstrating conditional operator<br>
+small = (x > y) ? a : b</p>
+<b>7. Bitwise Operators</b><br>
+These operators work on the bits. They perform bit-by-bit operations.<br>
+<b>In all there are six bitwise operators, as follows:-</b><br>
+<b>images</b><br>
+<b>Truth table for AND, OR and XOR is as follows:</b></p>
+<b>8. Assignment operators</b><br>
+They are responsible for assigning values to the variables. Equal to sign (=) is the most common assignment operator. Whenever an equal to sign is encountered in an expression the compiler will process the statement on the right side of the sign and will assign the result to the variable on left side.<br>
+<b>Example:-</b> Demonstrate assignment operators<br>
+c = a+b;<br></p>
+<b>9. Comma operator</b><br>
+This operator takes two operands. It separates two values, conditions etc. They are evaluated from left to right sequence. The comma operator has the lowest prcedence.<br>
+<b>Example:-</b><br>
+int a,b,c;<br></p>
+<b>10.  Size of operator</b><br>
+This operator is used for calculating the size of the data-types. They can be applied to all the data-types. For using this operator the 'sizeof' keyword is used followed by the type name, variable or expression. It determines the amount of memory space that the variable/data/expression will take.<br>
+<b>Precedence and Associativity</b><br>
+<b>images</b><br>
+
+
+
+
+
+
+ </span>
+</td>
+</table>
+</body>
+</html>

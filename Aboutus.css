@@ -1,0 +1,211 @@
+﻿body {
+ margin:0px;  
+}
+.our-team{
+	padding: 50px 55px;
+	background: white;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+    float: left;
+}
+.our-team .pic {
+	display: inline-block;
+	width: 140px;
+	height: 140px;
+	margin-bottom: 20px;
+	position: relative;
+	z-index: 1;
+
+	 
+}
+.our-team .pic:before {
+	content: "";
+	width: 100%;
+	height: 0;
+	border-radius: 100%;
+	background: #eb1768;
+	position: absolute;
+	bottom: 135%;
+	right: 0;
+	left: 0;
+	transform: scale(3);
+	transform: all 0.3s linear 0s;
+}
+.our-team:hover .pic:before {
+	height: 100%;
+
+}
+.our-team .pic:after {
+content: "";
+width: 100%;
+height: 100%;
+border-radius: 50%;
+background: #ee4266;
+position: absolute;
+top: 0;
+left: 0;
+z-index: -1;
+}
+.our-team .pic img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+	transform: scale(1);
+	transform: all 0.9s ease 0s; 
+}
+.our-team:hover .pic img {
+	box-shadow: 0 0 04px #f7f5ec;
+	transform: scale(0.7);
+}
+.our-team .team-content {
+	margin-bottom: 30px;
+}
+.out-team .title {
+	font-size: 22px;
+	font-weight: 700;
+	color: #4e5052;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	margin-bottom: 5px;
+}
+.our-team .post {
+	display: black;
+	font-size: 15px;
+	color:  #4e5052;
+	text-transform: capitalize;
+}
+.our-team .social {
+	width: 100%;
+	padding: 0;
+	margin:0;
+	background: #eb1768;
+	position:absolute;
+	bottom:-100px;
+	left: 0;
+	transform: all 0.5s ease 0s;
+}
+.our-team:hover .social {
+	bottom: 0;
+
+}
+.our-team .social li {
+	display: inline-block;
+    
+}
+.our-team .social li a {
+	display: block;
+	padding: 10px;
+	font-size: 17px;
+	color: white;
+	transition: all 0.5s ease 0s;
+}
+.our-team .social li a hover {
+	color: #eb1768;
+	background: #f7f5ec;
+	text-decoration: none;
+}
+.our-team2{
+	padding: 50px 55px;
+	background: white;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+    float: right;
+}
+.our-team2 .pic {
+	display: inline-block;
+	width: 140px;
+	height: 140px;
+	margin-bottom: 20px;
+	position: relative;
+	z-index: 1;
+
+	 
+}
+.our-team2 .pic:before {
+	content: "";
+	width: 100%;
+	height: 0;
+	border-radius: 100%;
+	background: #eb1768;
+	position: absolute;
+	bottom: 135%;
+	right: 0;
+	left: 0;
+	transform: scale(3);
+	transform: all 0.3s linear 0s;
+}
+.our-team2:hover .pic:before {
+	height: 100%;
+
+}
+.our-team2 .pic:after {
+content: "";
+width: 100%;
+height: 100%;
+border-radius: 50%;
+background: #ee4266;
+position: absolute;
+top: 0;
+left: 0;
+z-index: -1;
+}
+.our-team2 .pic img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+	transform: scale(1);
+	transform: all 0.9s ease 0s; 
+}
+.our-team2:hover .pic img {
+	box-shadow: 0 0 04px #f7f5ec;
+	transform: scale(0.7);
+}
+.our-team2 .team-content {
+	margin-bottom: 30px;
+}
+.out-team2 .title {
+	font-size: 22px;
+	font-weight: 700;
+	color: #4e5052;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	margin-bottom: 5px;
+}
+.our-team2 .post {
+	display: black;
+	font-size: 15px;
+	color:  #4e5052;
+	text-transform: capitalize;
+}
+.our-team2 .social {
+	width: 100%;
+	padding: 0;
+	margin:0;
+	background: #eb1768;
+	position:absolute;
+	bottom:-100px;
+	left: 0;
+	transform: all 0.5s ease 0s;
+}
+.our-team2:hover .social {
+	bottom: 0;
+
+}
+.our-team2 .social li {
+	display: inline-block;
+    
+}
+.our-team2 .social li a {
+	display: block;
+	padding: 10px;
+	font-size: 17px;
+	color: white;
+	transition: all 0.5s ease 0s;
+}
+.our-team2 .social li a hover {
+	color: #eb1768;
+	background: #f7f5ec;
+	text-decoration: none;
+}

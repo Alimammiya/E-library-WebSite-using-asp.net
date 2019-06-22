@@ -1,0 +1,781 @@
+1st Yr  1st Sem
+[Chemistry 1st]
+
+> Define Chemistry and its applications. (5)
+                                   OR
+            What do you mean by Chemistry ? Explain its importance
+* The branch of science concerned with the substances of which matter is composed, the investigation of their properties and reactions, and the use of such reactions to form new substances is termed as Chemistry. It can also be stated as the study of matter, its properties, how and why substances combine or separate to form other substances, and how substances interact with energy. 
+
+Chemistry may be used  in a lot fields in everyday life , some examples of the contribution of chemistry in different fields are as follows :
+1. (Chemistry in Industries)
+           Chemistry is used in almost all types of industrial processes. Only chemistry could make it possible to manufacture various matters. e.g ., synthetic fibres like rayon, nylon, Dacron, etc, which comfortable, attractive and durable but also easy to maintain; plastics (like bakelite, tenon, which are useful for making of various articles): paints, varnishes, dyes, cement, glass. etc
+2. (Chemistry in Medical Science) 
+
+
+    By the discovery & production of different types of medicines, chemistry could make the men free from many diseases and has given a healthy long life where analgesics, antipyretics, anesthetics, antiseptics keep us free from many problems. Discoveries and production of many medicines helped to cure the other diseases, e g. Taxol and cisplatin for cancer or AIDS, etc. 
+3. (Chemistry in Agriculture) 
+
+
+   With increase in population, the need of the total amount of food has also increased. Chemistry has been helpful to meet above needs by the discovery of different types of fertilizers, insecticides, pesticides and preservatives which has been helpful in fulfilling the increasing need of eatables. 
+4. (Chemistry in betterment of life style) 
+
+
+    Production of paper, clothes, dyes, perfumes, cosmetics, soaps, detergents, chemicals used in air conditioning and refrigeration, insecticides, preservatives, conductors, biodegradable polymers, etc. has made the life better and comfortable 
+
+5. (Transport Science) 
+
+Fuels like petrol, diesel, rocket fuel used in different automobiles are made available only by Chemistry. 
+Apart from these fuels, the fuel of the future i.e. nuclear or atomic energy is also the gift of Chemistry.
+> Define the following: (1each)
+a) Matter: - Matter is a substance which occupies space has mass and obeys laws of inertia. E.g. Air, water, soil, gold etc. 
+b) Element: - Element are smallest unit of matter that can ‘not be further broken down into small parts through chemical reactions. E.g. Gold, Silver, Copper etc.
+
+c) Compound: - The matter obtained by combination of two or more elements in a fix ratio is called a compound. E.g. , H2S, NH3 etc.
+d) Mixture:- A mixture is what you get when you combine two substances in such a way that no chemical reaction occurs between the components and you can separate them again. In a mixture, each component maintains its own chemical identity. 
+Types of mixtures:-
+ Homogeneous mixture has a uniform composition that doesn't readily separate. Every part of a homogeneous mixture has the same properties. In a homogeneous mixture, there is typically a solute and a solvent, and the resulting substance consists of a single phase. Examples of homogeneous mixtures include air and saline solution. 
+Heterogeneous mixture, in contrast, does not exhibit uniform properties. It's often possible to see the particles in the mixture and separate them from each other. Examples of heterogeneous mixtures include a wet sponge, sand, gravel, trail mix, and chalk suspended in water.
+
+e) Atom:-  The smallest particles of an element which participate in chemical reaction without undergoing any change called atoms.
+
+f) Molecule:- The smallest particles of a matter which can exite in free state consist of all the properties of the matter, is called molecule.
+
+g) Ion:- Whenever we add or remove valence electrons from any atom it produces a charged atom which is called an Ion.
+Types of ions:- 
+1. Cations:- Removal of electrons produce cations. E.g. Na+, Ca+, k+ etc.
+2. Anions:- Additon of electrons produce anions.E.g. Cl-,Br-,O2_ etc.
+
+h) Valency:- Valency shows the capacity of atoms to combine with each other to form molecules.
+
+i) Chemical Equation:-  Chemical equation is actually a composition of symbols and formula which show a chemical reaction in short.
+
+> Who discovered Brownian motion?
+* Robert Brown
+
+> Difference between Mass and weight.
+* 
+Comparison of Mass and WeightMass is a property of matter. The mass of an object is the same everywhere,Weight depends on the effect of gravity. Weight varies according to location.Mass can never be zero.Weight can be zero if no gravity acts upon an object, as in space.Mass does not change according to location.Weight increases or decreases with higher or lower gravity.Mass is a scalar quantity. It has magnitude.Weight is a vector quantity. It has magnitude and is directed toward the center of the Earth or other gravity well.Mass may be measured using an ordinary balance.Weight is measured using a spring balance.Mass usually is measured in grams and kilograms.Weight often is measured in newtons, a unit of force.
+> Difference between Metal and Non-Metal
+*  
+  
+S.noMetalsNon-metals1They are solid at room temperature except mercury which is liquid at
+room temperature.They may be solid, liquid and gaseous at room temperature.2Good conductors of heat and electricity.Poor conductors of heat and electricity.3.They have shining appearance i.e. lustrousThey are non-lustrous i.e. having dull appearance.4.They have ductility i.e. they can be drawn into thin wires.They are non-ductile.5Metals are malleable. It means that it can be hammered into thin
+sheets.Non-metals not malleable.6.They are the elements whose atoms possess 1-3 electrons in their
+outer most shell (valence shell).They are the elements whose atoms possess 4-8 electrons in their
+outer most shell.
+> Explain Dalton’s Atomic Theory
+* Dalton’s atomic theory
+I. Qw2	All matter consists of indivisible particles called atoms.
+II. Atoms of the same element are similar in shape and mass, but differ from the atoms of other elements.
+III. Atoms cannot be created or destroyed.
+IV. Atoms of different elements may combine with each other in a fixed, simple, whole number ratios to form compound atoms.
+V. Atoms of same element can combine in more than one ratio to form two or more compounds.
+VI. The atom is the smallest unit of matter that can take part in a chemical reaction.
+> Explain Modern Atomic Theory
+* Modern Atomic Theory
+1. Atom is not really undividable. It is composed of sub-atomic particles-electrons, protons neutrons. (Later on, even the presence of more such particles was found). 
+2. Atoms of the same element may vary in atomic weight; such atoms are called isotopes. e.g., Hydrogen exists in three isotopes (1 H1, 1 H 2 and 1H 3 ) . 
+
+3. Atoms of different elements may have same atomic weight. Such atoms are called isobars. e.g. 18 AR 40 , 19 K 40 , 20 Ca 40. Hence, atomic weight is not the fundamerital characteristic of an element. 
+
+4. The discovery of isotopes and isobars proved that the fundamental characteristic of element atomic number and not atomic weight. 
+5. Atoms of different elements combine to form molecules which are called compounds. 
+6. It is not necessary that the ratio of combining atoms should be simple whole number, e.g., prothema carbohydrates etc. 
+7. Chemical reactions among the atoms occur through give and take of electrons. 
+8. Though atoms can neither be. created nor destroyed, however, atoms of heavy' elements can be converted into atoms of lighter elements by their nuclear fission. 
+
+> Difference between Mixtures and Compounds.
+* Some diffrence between mixtures and compounds.
+* Compounds
+o Compounds are pure substances.
+o They are made up of two or more elements combined chemically.
+o The constituents of a compound are present in a fixed ratio.
+o Compounds have fixed properties. For example, a particular compound will have fixed temperatures at which it melts and boils.
+o A compound can have properties different from its constituents, as a new substance is formed when the constituents are chemically combined.
+o The constituents of a compound can be separated only by chemical methods.
+* Mixtures
+o Mixtures are impure substances.
+o They are made up of two or more substances mixed physically.
+o The constituents of a mixture are present in varying ratios.
+o Mixtures do not have fixed properties. Their properties depend on the nature of their components and the ratios in which they are combined.
+o In mixtures, no new substance is formed. The properties of a mixture are the same as the properties of its constituents.
+o The constituents of a mixture can be separated easily by physical methods.
+> Write the methods for balancing chemical equation.
+* Since, no matter is destroyed or created during chemical reaction, i.e. energy is never destroyed nor created, there must be equal number of element present in product side as it was in reactant side. That is the reason why we need to balance chemical reaction. Balancing a chemical equation is done by putting suitable integer before the elements or compounds in both reactant and product side.
+There are two methods of balancing chemical equation:
+1. Hit and Trail Method
+2. Partial equation method.
+Hit and Trail method: In this method the equation is balanced by trial and error methods. There is no definite rules to balance the equation but simple guessing. Generally hit and trial method is applicable for simple chemical reaction.
+H2 + Cl2    ?   2HCL
+Following step should be noted while balancing a chemical equation:
+1. The atom which occurs at minimum number of places on both sides should be selected first and the one occurring maximum number of times should be taken last of all. Let’s illustrate this by following equation:
+Na+ H2O  ?  NaOH +H2
+Let’s look at each element, Na and oxygen is in same number in both product and reactant side, but there is two hydrogen atom in reactant side while in product side there is three.  So let’s try to balance the number of hydrogen atom.
+If we multiply H2O by 2 in L.H.S, then number of hydrogen becomes 4, and that of oxygen becomes 2. IN the product side, if we also multiply NaOH by 2, then total hydrogen becomes 4 and oxygen becomes 2. So hydrogen and oxygen in both side becomes equal, i.e balanced. However, while multiplying NaOH in product side by 2, the number of Na becomes 2 in product side, but it is only one in reactant side. So, to balance this, we again multiply Na in reactant side by two, so that overall number of atoms of element becomes equal.
+So, final balanced chemical equation becomes,
+2Na + 2H2O ?  2NaOH +H2
+Partial equation method:
+Partial equation method is used for balancing complex chemical equations. There are chemical equation which involves many steps and reacting elements occur in more than one products in the product side. In such cases, balancing by Hit and Trial method is difficult. That is why partial equation method is used to balance such chemical equations.
+In Partial equation method, equation is first divided into partial equation, which are simply probable steps that might occur in the chemical reaction. These probable steps are then balanced by hit and trail method and finally added. Following steps are applied in balancing chemical equation by partial equation method.
+1. At first, different probable steps are written for the given chemical equation. These probable steps are simply the partial chemical equation which we can write for easily balancing the reactants and product. Note that the probable steps may or may not occur in real.
+2. After breaking down the probable steps for the chemical equation, the partial equations are individually balanced by using Hit and Trial Method.
+3. Such balanced partial equations are multiplied by suitable integer. This is done if required, so that the elements which are not formed in the product side of the overall chemical equation is canceled out.
+4. Finally, the balanced partial equations are added to get the final overall balanced equation.
+Lets’ illustrate some examples:
+PbS + O3    ?PbSO4 + O2
+In the given reaction, the atom of Pb and S is balanced in both reactant and product side. But there is 3 atom of oxygen in reactant side and 6 oxygen atom in product side. So let’s balance this chemical equation by partial equation method.
+* First let’s think the possible step for occurring of the given chemical reaction. There is lead sulphide reacting with ozone, it means ozone must be acting as oxidizing agent which liberates nascent oxygen. So the first step can be generation of nascent oxygen by decomposition of ozone molecule.
+Step-1
+O3  ?O2 + [O]
+This liberated nascent oxygen can react with PbS to give lead sulphate and oxygen as;
+Step-2
+PbS + [O] ? PbSO4
+This partial step is not balanced reaction. There is equal number of Pb and S atom, but no. of oxygen is one in reactant side but four in product side. So we can multiply nascent oxygen in reactant side by four.
+PbS + 4[O] ? PbSO4
+If we make four nascent oxygen in second probale step, then we must also need to make it equal number of nascent oxygen liberated in step one. So we need to multiply step one with integer four
+{ O3  ?O2 + [O]    }    × 4
+Now lets add both partial equation:
+{ O3   ?O2 + [O]    }  × 4
+PbS + 4[O] ? PbSO4
+PbS  + 4O3   PbSO4 + 4O2
+This is the balanced chemical equation.
+Other equations:
+KMnO4 + H2SO4  + H  ?K2SO4 + MnSO4 + H20
+In The given equation, except Mn all other atoms are not balanced. So let’s first break down the equation into partial equations and then balance them by Hit and Trial method.
+Potassium permanganate is strong oxidizing agent, so it always discharge nascent oxygen.
+1.  KMnO4  ? K2O + MnO + O
+Balancing this equation by Hit and Trial method.
+2KMnO4   ? K2O + 2MnO + 5O
+ 
+2. K2O + H2SO4 ?K2SO4 +H2O
+This is already balanced so we don’t need to balance this equation.
+3. MnO + H2SO4  ?MnSO4 +H2O
+This is also balanced chemical equation.
+4. H+ O ?H2O
+We can simply balance this reaction by simply putting 2 in the hydrogen in reactant side.
+2H+ O  ?H2O
+Now,
+Lets’ add all the partial equation and cancel out any common atoms which don’t appear in product. In the product side there is no MnO and O, so we need to cancel out these. To cancel out these we can make them equal in number by multiplying the whole reaction with suitable integer. In this case, we have multiplied last and second last partial reaction by 5 and 2 to make O and MnO equivalent in both product and reactant side. Once all the reaction is balanced, we can get the balanced chemical equation by adding partial equation.
+2KMnO4   ?K2O + 2MnO + 5O
+K2O + H2SO4  ?K2SO4 +H2O
+[MnO + H2SO4  ? MnSO4 +H2O ] ×2
+[2H+ O  ?H2O]  ×5
+2KMnO4 + 3H2SO4 + 10 H   ?K2SO4 + 2MnSO4 + 8H2O
+This is the balanced chemical equation.
+> Difference between atoms and ions
+* Atom 
+1. Electrically - neutral particles .
+2. May or may not exist - independently.
+3. Outermost shell - may or may not have duplet or octet.
+4. Other than noble gases they have unstable electronic 
+configuration.
+5. They combine to form molecules.
+6. They do not have a electrostatic force of attraction 
+i.e., they lose,or share electron to have stable 
+7. It takes place betweem a metal and a non- metal.
+
+Ions
+1. Electrically - charged particles (cations, anions)
+2. Exist - independently in solution.
+3. Outermost shell - have complete duplet or octet.
+4. Every ions have stable electronic configuration.
+5. They combine and leads to the formation of an 
+electrovalent bond.
+6. They have a electrostaic force of attraction in them.
+7. It takes place between electrically charged ions.
+
+> Difference between element and compound
+* Comparison chart
+Compound versus Element comparison chartCompoundElementMeaningA compound contains atoms of different elements chemically combined together in a fixed ratio.An element is a pure chemical substance made of same type of atom.Distinguishing FeatureCompounds contain different elements in a fixed ratio arranged in a defined manner through chemical bonds.Elements are distinguished by their atomic number (number of protons in their nucleus).Ability to BreakdownA compound can be separated into simpler substances by chemical methods/reactions.Elements cannot be broken down into simpler substances by chemical reactions.TypesThe list of compounds is endless.There are about 117 elements that have been observed. Can be classified as metal, non-metal or metalloid.RepresentationA compound is represented using a formula.An element is represented using symbols.ExamplesWater (H2O), Sodium chloride (NaCl), Sodium bicarbonate (NaHCO3) etc.Iron, copper, silver, gold, nickel etc.> What do you mean by Molecular formula and Empirical formula? Define with examples.
+* Molecular Formula Definition
+Molecular formula is defined as: 
+The molecular formula of a substance expresses the actual number of atoms of the element present in its molecule. It may be the same as the empirical formula or an exact multiple of it.Empirical Formula Definition
+The empirical formula of a compound is the simplest formula which expresses its percentage composition. It is the ratio of the different elements present in a chemical compound. Empirical formula does not show the exact number of elements present. For example, molecular formula of Benzene is C6H6. This shows us that the molecule contains six carbon atoms and six hydrogen atoms. The molecular formula of benzene is different from its empirical formula which is CH.
+Empirical formula shows the simplest whole number ratio of the atoms in a molecule.
+The ‘molecule’ referred to here, could be an ionic compound or a covalent compound. One more example can be given of Thyme, which has a molecular formula of C2H2.
+
+This molecule also has an empirical formula of CH. So, more than one compound can have the same empirical formula, but not a molecular formula.
+
+We can calculate the molecular formula from the empirical formula if we know the relative molecular mass or molar mass of the substance.
+Molecular Formula Examples
+Examples of some molecular formulas are:
+NH3 : Ammonia
+CaCO3 : Calcium Carbonate
+HNO2 : Nitrous acid 
+NaNO2 : Sodium Nitrite
+CH3COOH : Acetic acid
+Molecular Formula and Empirical Formula Examples
+SubstanceEmpirical Formula Molecular Formula MethaneCH4CH4EthyleneCH2C2H4 or (CH2)2GlucoseCH2OC6H12O6DiboraneBH3(BH3)2 or B2H6How to Find Molecular Formula?
+Molecular formula of a compound is calculated by adding the atomic masses of all the elements present in the compound. We need to take care of the number of each of these elements present in a chemical compound. Also, the brackets need to be taken care of. The atomic masses of all the compounds are obtained from the periodic table.
+Solved Examples
+Question 1: Find the molecular formula for NaCl.
+Solution:
+The compound contains Sodium: Na 
+Atomic mass of Sodium = 22.98 grams/mole.
+Atomic mass of chlorine = 35.45 grams/mole.
+Molecular mass of Sodium Chloride = 22.98 + 35.45 = 58.43 grams/mole.
+
+Question 2: Find the molecular formula for CaSO4
+Solution:
+In calcium sulphate, there are one mole of Calcium, One mole of Sulphur and 4 moles of Oxygen. Let us calculate the molecular mass of this compound:
+Atomic mass of Calcium = 40.078 grams/mole.
+Atomic mass of Sulphur = 32.066 grams /mole.
+Atomic mass of Oxygen = 16 grams / mol. There are four moles of Oxygen. So, 
+            4 x 16 of oxygen = 64 
+Adding the atomic masses of all elements:  
+Ca + S + 4 X O = 40.078 + 32.066 + 64 = 136.144 grams/mole.
+When a compound has a complex formula, we need to take care of the brackets too, while calculating the molecular formula.
+Question 3: Find the molecular formula for Al2(SO4)3
+Solution:
+Aluminium Sulphate has: Aluminium – 2 moles.
+In the brackets: sulphur – one mole x 3 = 3 moles of sulphur.
+                            Oxygen – 4 moles x 3 = 12 moles of oxygen.
+Now, adding molar mass of all the elements + the numbers of these elements present:
+Molecular formula of Aluminium Sulphate 
+               = 2 x Al + 3 x (S + 4 x O)
+               = 2 x Al + 3 x S + 12 x O
+               = 2 x 26.98 + 3 x 32.066 + 12 x 16
+               = 342.15grams / mole.
+
+Question 4: Calculate the molecular formula for CH3COOH
+Solution:
+This compound, acetic acid contains: 2 moles of Carbon, 2 moles of Oxygen and 4 moles of Hydrogen.
+To calculate the molecular mass: 
+Molecular mass of Acetic acid = 2 x 12.01 + 2 x 16 + 4 x 1.008
+= 60.05grams/mole.
+Question 5: Calculate the molecular mass of K2Cr2O7
+Solution:
+Molecular mass of Potassium dichromate = 2x K + 2 x Cr + 7 x O
+                                                             = 2 x 39.09 + 2 x 51.99 + 7 x 16
+                                                             = 294.185grams / mole.
+Molecular formula of a compound can be calculated from its empirical formula too.
+Molecular Formula From Empirical Formula
+
+Solved Examples
+Question 1: The molar mass of a compound, by molecular mass calculation experiment was found to be 44. Analysis of its oxide showed that 2.2 grams of it contained 1.4 grams of Nitrogen atoms, and 0.8 grams of Oxygen atoms. What will be the molecular mass of the compound?
+Solution:
+ First step would be to find out the number of moles of Nitrogen and oxygen atoms:
+Number of moles of Nitrogen atoms = Mass of Nitrogen in gramsMolar mass of N2
+= 1.4 grams14 grams.mol?11.4 grams14 grams.mol?1
+= 0.1 mole.
+Number of moles of Oxygen = Mass of OxygenMolar mass of O2
+= 0.8 grams16 grams.Mol?1
+= 0.05 mole
+Moles of Nitrogen are twice that of Oxygen. Therefore, ratio of moles of nitrogen to oxygen is 2:1. Thus, the empirical formula can be given as: N2O.
+To calculate the molecular formula, we need to use the molecular mass data given.
+Molecular mass of the compound = 44 grams/ mole.
+The empirical formula mass is = 2 x N + O = 28 + 16 = 44 g/mol.
+This is matching with the molecular formula mass or the molar mass. So, in this case, empirical formula is the molecular formula.
+ Question 2: A chloride of sulphur was found to have a relative molecular mass of 135. A 5.4 grams sample was also found to contain 2.84 grams of chlorine. What is the molecular formula of chloride?
+Solution:
+Given data: Relative molar mass = 135.
+Amount of chlorine present = 2.84 grams.
+Since this is a chlorine compound, the mass here refers to the mass of ‘Cl’ and not ‘Cl2’.
+Mass of sulphur from the sample = Mass of total sample – mass of chlorine present.
+= 5.4 grams – 2.84 grams = 2.56 grams.
+
+So, 2.56 grams of Sulphur is present in the sample.
+Number of moles of Sulphur atoms = Mass of sulfurAtomic mass of S
+= 2.56g32g.mol?1
+= 0.08 moles.
+Number of moles of Chlorine = Mass of chlorineAtomic mass of Cl.
+= 2.84 g35.5 g.mol?1
+= 0.08 moles.
+So, there are same moles of Chlorine and sulfur in this compound.
+Empirical formula would be SCl.
+We know that the molecular mass given is = 135 g/mol.
+Empirical formula mass = S + Cl = 67.5 g/mol.
+The factor for multiplication of empirical formula would be: 135 / 67. 5 = 2
+Therefore, molecular formula = 2 x (SCl) = S2Cl2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atomic structure and chemical bonding
+
+> Define fundamental particles of Atom and also define their properties.
+* Atom may be defined as a smallest unit of any matter. It can be further divided into some fundamental particles they are listed below along with their properties.
+What is an Electron ?
+"What is an electron ?" is a question that can be answered at various levels of detail and complexity, depending on the context. This page describes electrons at the the level required for high school chemistry (GCSE to A-Level in the UK).
+
+Definition of an Electron:
+An electron is a subatomic particle that has a negative charge of -1 and is located in the volume of atomsaround the nucleus (so not in the nucleus itself)
+Electrons have no known components or substructure and are therefore generally considered to be elementary particles.
+
+Key Facts about Electrons
+* Electrons exist in the volume of atoms that surrounds the nucleus (see the diagram of an atom, on the right) and not in the nucleus of atoms - which is where the protons and neutrons are located.
+* Electrons are therefore subatomic particles but they are not nucleons.
+* Electrons have a negative charge of -1.
+* An electron has a mass approximately 1/1836 of the mass of a proton, so a relative mass of 1/1836 ? 0.0005 ? zero. 
+Electrons therefore account for very little of the total mass of the atom of which they are a part. 
+The number of electrons in an atom is the same as the number of protons in the atom. That is because atoms are charge neutral, and protons have a charge of +1 while electrons have a charge of -1 so there must be the same number of each in order for the whole atom to be charge neutral. 
+Recall that the number of protons in an atom is the atomic number of that atom (element).
+
+What is a Proton ?
+"What is a proton ?" is a question that can be answered at various levels of detail and complexity, depending on the context.
+This page describes protons at the the level required for high school chemistry (GCSE to A-Level in the UK).
+
+Definitions of a Proton:
+1. A proton is a subatomic particle found in the nucleus of atoms that differs from the other subatomic particles (called "neutrons") in the nucleus of most atoms because each proton has a positive charge of +1 (as opposed to neutrons, which have no charge). 
+ 
+2. A proton may also be defined as the hydrogen ion, H+. 
+While it is true to say that the hydrogen ion (H+) is a proton, the definition above is more general and is usually the answer expected in first-level courses in school chemistry. That is why some texts may say that a proton has a "second identity" as the hydrogen ion, H+.The number of protons in an atom determines which element that particular atom is an atom of, and hence its properties - especially its chemical properties. (Its physical properties are also influenced by the number of neutronsin the atom, i.e. the particular isotope that atom is an example of.)
+
+
+
+Key Facts about Protons
+* Protons are located in the nucleus of atoms, together with any neutrons also present in the atom. 
+
+* Protons have a positive (+1) charge, which balances the negative (-1) charge of the electrons that surround the nuclei of atoms. 
+
+* Protons have a relative mass of 1, which is the same as the relative mass of neutrons. 
+
+* The number of protons in an atom is called the "Atomic Number" of that atom and is sometimes referred to as "Z". This is important because it defines the type of atom, i.e. which element it is an atom of.
+* Protons and neutrons are collectively referred to as nucleons. 
+
+
+What is a Neutron ?
+"What is a neutron ?" is a question that can be answered at various levels of detail and complexity, depending on the context. This page describes neutrons at the the level required for high school chemistry (GCSE to A-Level in the UK).
+
+Definition of a Neutron:
+A neutron is a subatomic particle found in the nucleus of atoms that differs from the other subatomic particles (called "protons") in the nucleus of atoms because neutrons have no (zero) charge whereas each proton has a positive charge of +1.The number of neutrons in an atom determines which isotope of the element (which is determined by the number of protons in the atom), that particular atom is an example of.
+The number of neutrons in an atom determines not only the isotope but also, therefore, its physical properties e.g. in general the greater the mass of its individual particles (due to more neutrons in their nuclei) the higher the melting and boiling points of a material tend to be.
+Neutrons that do not form part of the nucleus of an atom are called "free neutrons" and are unstable but important for the understanding of aspects of nuclear power production and experimental particle physics.
+
+
+
+Key Facts about Neutrons
+* Neutrons are located in the nucleus of atoms, together with the protons in the atom. 
+
+* Neutrons have zero charge.
+Another way to state the same thing is to say that neutrons are "charge neutral". 
+
+* Neutrons have a relative mass of 1, which is the same as the relative mass of protons. 
+
+* The number of neutrons in an atom may be calculated from the atomic number of that atom (element) and the mass number of that atom (isotope). 
+ 
+Number of Neutrons (in an atom) = Mass Number (A) - Atomic Number (Z) 
+
+* Protons and neutrons are collectively referred to as nucleons. 
+
+* Neutrons are responsible for about half the weight of conventional matter by volume. 
+
+* Neutrons play important roles in nuclear power production.
+
+
+> Explain Dobereiner’s Triads
+* Member since Apr 28 2014
+According to Dobereiner, all elements occurred in groups of three, when arranged in increasing order of atomic masses. He referred to these groups as triads. In a traid the elements had similar chemical properties. 
+
+Traids of the Dobereiners classification:
+Traid1:
+ElementAtomic massLithium  (Li)7Sodium (Na)23Potassium (K)39
+Traid2:
+ElementAtomic massChlorine (Cl)35.5Bromine (Br)80Iodine (I)127
+Traid3:
+ElementAtomic massCalcium (Ca)40Strontium (Sr)88Barium (Ba)137
+Dobereiner’s law of triads states that, the atomic mass of the middle element of a triad is the arithmetic mean of the atomic masses of the other two elements.
+ 
+Example:
+In the triad of lithium, sodium and potassium. The atomic mass of lithium is 7 and  the atomic mass of potassium is 39. The average of masses of lithium and potassium gives atomic mass of sodium 23. 
+
+Drawbacks:
+All the known elements could not be arranged in the form of triads.
+This law did not hold good for elements with very low or very high atomic mass. 
+Example: The arithmetic mean of the atomic masses of fluorine 19 and bromine 80, which comes to 49.5, varies significantly from the atomic mass of chlorine, which is 35.5. 
+
+> Explain newland’s law of octaves
+* In the year 1866, an English scientist, John Newlands arranged the elements in the order of increasing atomic masses. Till then only 56 elements were known to us. He started with hydrogen which has the lowest atomic mass and finally ended at thorium which was the element known to have highest atomic mass at that time. He noticed that every eighth element exhibits similar properties as compared to the first element. He called this law as the ‘Law of Octaves’ better known as ‘Newland’s Law of Octaves’. According to Newland’s Law of Octaves, as the observed properties of lithium and sodium are same, sodium is placed at the eighth position with respect to lithium. A general representation of various elements according tonewlands periodic table is given below:
+
+
+> Explain features of long form of Periodic Table
+* The main features of modern periodic table
+The long form of periodic table consist of vertical columns called groups and horizontal rows called periods.
+* Elements are arranged in the increasing order of atomic numbers.
+* Elements in the modern periodic table are arranged in 7 periods and 18 groups.
+* Horizontal rows are called periods and vertical columns are called groups.
+* Elements are placed in periods based on the number of shells in their atoms.
+* The shortest period is the first period which contains only two elements – Hydrogen and Helium.
+* The second period contains elements from Lithium to Neon.
+* The third period contains elements from Sodium to Argon.
+* The fourth period contains elements from Potassium to Krypton.
+* The fifth period contains elements from Rubidium to Xenon.
+* Sixth period is considered as the longest periods in the periodic table. It contains elements from Cesium to Radon 
+* Seventh period is incomplete period
+* In group IIIB of the sixth period Lanthanides are placed.
+* In group IIIB of the seventh period Actinides are placed
+* In periodic table Lanthanides and Actinides are shown in the bottom of the periodic table.
+> Define electronic theory of valency
+* Electrovalency : 
+When an element forms electrovalent bond, its valency is known as electrovalency. 
+The number of electrovalent or ionic bonds an atom can form is called its electrovalency. The electrovalency of an element is, therefore, equal to the number of electrons lost or gained by the atom to form an ion. 
+Elements which lose electrons show positive electrovalency and those which gain electrons show negative electrovalency. For example, in the formation of sodium chloride (Na+Cl–) , the electrovalency of sodium (Na) is +1, while that of chlorine (Cl) is – l. 
+Elements which lose or gain one, two, three, ... , etc., electrons are said to be monovalent (or univalent), divalent (or bivalent), trivalent, ... , etc., respectively. 
+Monovalent elements : Na, CI, F
+Divalent elements : Mg, Ca, Ba, O
+Trivalent elements : Al, B
+Characteristics of electrovalent or ionic compounds : 
+1. Electrovalent compounds are made up of positively and negatively charged ions. For example, sodium chloride (NaCl) is made up of Na+ and Cl– ions arranged in a definite order in three dimensions to form crystals. 
+2. Electrovalent compounds have high melting and boiling points. This is due to the presence of strong electrostatic forces of attraction between the positive and negative ions. A large amount of heat energy is required to break this force of attraction. Hence, the melting and boiling points of electrovalent compounds are high.
+3. Electrovalent compounds are usually soluble in water but insoluble in organic solvents such as benzene, acetone, carbon disulphide and carbon tetrachloride. 
+4. Electrovalent compounds conduct electricity in molten state and in their aqueous solutions. 
+In solid electrovalent compounds the ions are held together in fixed positions and cannot move. Hence, such compounds in the solid state do not conduct electricity. 
+When an electrovalent compound is dissolved in water or is melted, the crystal structure breaks down. The ions now become free to move and can, therefore, conduct electricity. 
+That the ionic compounds in molten state or in solution become conductors of electricity.
+> What do you mean by covalency? Explain the characterstics of covalent bond.
+Covalency:- The method of combination of two atom involving mutual sharing of elements is called covalency
+Following are the typical characteristics of covalent compounds:
+(i) Low melting and boiling points:
+Covalent compounds consist of molecules held by weak forces. These can be easily overcome by heat. Thus, covalent compounds have low melting points and low boiling points.
+(ii) Non-conducting nature:
+Covalent compounds do not conduct electricity, i.e., electricity does not pass through the covalent compounds. This is because the covalent compounds do not contain ions, or free electrons. Sugar is a covalent compound, and its solution does not conduct electricity. Solutions of polar covalent compounds, e.g., HCl, conduct electricity due to the presence of ions in solutions.
+(iii) Solubility:
+Covalent compounds are usually insoluble not polar solvents like water. The covalent compounds however, dissolve in non-polar solvents, like benzene, toluene, etc.
+(iv) Slow rate of reaction:
+the reactions of the covalent compounds are quite slow. This is because the covalent compounds take part in reactions as molecules, and the molecular reactions are slow.
+(v) Isomerism:
+Covalent bonds are rigid and directional. Therefore, these can give different arrangements of atoms in space. So, a single molecular formula may represent a number of different compounds with different properties. This phenomenon is called isomerism.
+> What do you mean by sigma and pi bonds
+* There are two types of overlapping orbitals: sigma (?
+) and pi (?). Both bonds are formed from the overlap of two orbitals, one on each atom. ?
+bonds occur when orbitals overlap between the nuclei of two atoms, also known as the internuclear axis.
+
+? Bond Formation: Atomic orbitals from two atoms overlap in the region between the nuclei (internuclear axis). Therefore, the resulting electron density of the shared electrons lies in the red region shown in the image.
+? bonds occur when two (unhybridized) p-orbitals overlap. The p-orbitals, in one ? bond, are located above and below the nuclei of the atoms. By occupying the region of space that is above, below, and on the sides of an atom’s nuclei, two ?
+bonds can form.
+
+? Bond Formation: Two unhybridized p-orbitals can overlap so that the electron density of the shared electron pair is described by the ?
+bond depicted on the right.
+Both types of overlapping orbitals can be related to bond order. Single bonds have one sigma bond. Double bonds consist of one ?
+ and one ? bond, while triple bonds contain one ? and two ? bonds.
+> Define Mendeleev’s original periodic table and also state its drawbacks.
+* The first really successful arrangement of elements was that of Dmitri Ivanocich Mendeleev a Russian chemist, gave a scheme for the classification of elements in 1869.
+ 
+Dmitri Ivanocich Mendeleev
+Mendeleev’s periodic law:- Mendeleev stated the famous periodic law according to which "Properties of elements are a periodic function of their atomic weight’’.
+ 
+Mendeleev arranged elements in the order of their increasing atomic weights in the form of a table, which is known as Mendeleev's Periodic Table. Some gaps were left as the elements to fill up these gaps had not been discovered at that time.
+ 
+
+ Mendeleev's periodic table (based on the original table of 1871)
+
+In Mendeleev 's periodic table there were six horizontal rows of elements which are called periods of elements. The eight vertical rows of elements are called groups. Elements with similar chemical properties were placed in the same group and within a group various elements showed a regular gradation in their properties.
+
+
+Drawbacks of periodic table:-
+1. Position of hydrogen:- hydrogen resembles both, alkali metals (IA) and the halogens (VIIA) in properties so Mendeleev could not decide where to place it.
+2. Position of Isotopes:- As atomic weight of Isotopes differ, they should have been placed in different position in Mendeleev's periodic table. But there was no such places for Isotopes in his table.
+3. Cause of periodicity:- Why physical and chemical properties repeated in a group.
+4. Anamolous pairs of elements:- There were some pair of elements which did not follow increasing order of atomic weights.
+Example: Ar&K, Te&I, Co&Ni, Th&Pa 
+5. Gaps in his period table:- Mendeleev left several gaps in his periodic table, proposing that some of the elements were still undiscovered
+Example: Eka Aluminium - Gallium(Ga), Eka Silicon - Germanium(Ge), Eka Boron - Scandium(Sc), Eka Mangenese - Technetium(Tc).
+6. Like elements were placed in different groups.
+Example: Platinum (Pt) and Gold(Au) have similar properties but were placed in different groups Pt(VIII) and Au(IB).
+7. Unlike elements were placed in same groups.
+Example: Cu, Ag and Au were placed in Ist group with Na, K etc while they differ in their properties.
+8. It was not clear that lanthanides and Actinides are related with IIIA group or IIIB group.
+> Explain periodic law and define its characterstics.
+* the law that the properties of the elements are periodic functions of their atomic numbers. Also called Mendeleev's law. (originally) the statement that the chemical and physical properties of the elements recur periodically when the elements are arranged in the order of their atomic weights.
+The main features of modern periodic table
+The long form of periodic table consist of vertical columns called groups and horizontal rows called periods.
+* Elements are arranged in the increasing order of atomic numbers.
+* Elements in the modern periodic table are arranged in 7 periods and 18 groups.
+* Horizontal rows are called periods and vertical columns are called groups.
+* Elements are placed in periods based on the number of shells in their atoms.
+* The shortest period is the first period which contains only two elements – Hydrogen and Helium.
+* The second period contains elements from Lithium to Neon.
+* The third period contains elements from Sodium to Argon.
+* The fourth period contains elements from Potassium to Krypton.
+* The fifth period contains elements from Rubidium to Xenon.
+* Sixth period is considered as the longest periods in the periodic table. It contains elements from Cesium to Radon 
+* Seventh period is incomplete period
+* In group IIIB of the sixth period Lanthanides are placed.
+* In group IIIB of the seventh period Actinides are placed
+* In periodic table Lanthanides and Actinides are shown in the bottom of the periodic table.
+
+> Electron dot structure of some important compounds
+* Electron dot structure of some compounds :-
+
+
+> Define Valence Bond Theory and its limitations
+* Valence Bond Theory
+Heitler and London introduced this theory. This is primarily based on the concepts of atomic orbitals, electronic configuration of elements, the overlapping of atomic orbitals, hybridization of atomic orbitals. The overlapping of atomic orbitals results in the formation of a chemical bond. The electrons are localized in the bond region due to overlapping.
+Postulates of Valence Bond Theory
+* The overlapping of two half-filled valence orbitals of two different atoms results in the formation of the covalent bond. The overlapping causes the electron density between two bonded atoms to increase. This gives the property of stability to the molecule.
+* In case the atomic orbitals possess more than one unpaired electron, more than one bond can be formed and electrons paired in the valence shell cannot take part in such a bond formation.
+* A covalent bond is directional. Such a bond is also parallel to the region of overlapping atomic orbitals.
+* Based on the pattern of overlapping, there are two types of covalent bonds: sigma bond and a pi bond. The covalent bond formed by sidewise overlapping of atomic orbitals is known as pi bond whereas the bond formed by overlapping of atomic orbital along the inter nucleus axis is known as a sigma bond.
+
+ 
+
+
+
+
+
+
+
+
+Limitations of Valence Bond Theory
+As we pointed out earlier, nothing is perfect! In a similar way, the Valence Bond theory is also not perfect. It has its own set of limitations. They are:
+* It fails to explain the tetravalency of carbon.
+* This theory does not discuss the electrons’ energies.
+* The assumptions are about the electrons being localized to specific locations.
+> What do you mean by overlapping ? Also define its types
+* In chemical bonds, an orbital overlap is the concentration of orbitals on adjacent atoms in the same regions of space. Orbital overlap can lead to bond formation.
+Types of overlapping
+(i) S-S overlapping: overlapping between s-s orbital’s of two similar or dissimilar atoms is known as s-s overlapping and forms a single covalent bond.
+
+(ii) S-P overlapping: overlapping between s- and p –orbital’s is known as s-p overlapping. is formed by the overlapping between 3 orbital’s of nitrogen ) with 3 orbital’s of 3 hydrogen atoms (s).
+
+
+Strong bond can be formed only when hydrogen electrons approache in the direction of X, Y and Z axes at right angles to each other.
+(iii) P-P overlapping: p-p overlapping is produced by the overlapping of the p-orbitals of the atoms. In the case of chlorine molecule, it is produced by the overlapping of the orbitals of two chlorine atoms.
+
+
+Formation of Cl2 molecule by overlapping of p-p-orbitals of two chlorine atoms.
+
+
+> What is hybridisation and also define its types.
+* In chemistry, orbital hybridisation (or hybridization) is the concept of mixing atomic orbitals into new hybrid orbitals (with different energies, shapes, etc., than the component atomic orbitals) suitable for the pairing of electrons to form chemical bonds in valence bond theory.
+
+These are the three kinds of hybridization that are important in organic chemistry. sp3 hybridization
+Type of hybridDiagramAtomic orbitals usedNumber of hybrid orbitals formedNumber of atoms bonded to the CGeometrysp3 s, p, p, p44tetrahedralThe first is the sp3 hybridization that we have already talked about. sp3 hybridization results from the combination of the s orbital and all three p orbitals in the second energy level of carbon. It results in four hybrid orbitals and occurs when a carbon atom is bonded to four other atoms. The geometric arrangement of those four hybrid orbitals is called tetrahedral.
+sp2 hybridization
+Type of hybridDiagramAtomic orbitals usedNumber of hybrid orbitals formedNumber of atoms bonded to the CGeometrysp2 s, p, p33flat triangularAnother kind of hybridization uses the s orbital and two of the p orbitals from the second energy level of carbon to form three hybrid orbitals. This kind of hybridization is called sp2 hybridization. It has three hybrid orbitals and there is also an unchanged p orbital that is not shown here. The geometric arrangement of these three sp2 hybrid orbitals is in a flat plane with 120 degree angles between them. The leftover p orbital lies at a 90 degree angle to the hybrid orbitals. If it had been included in this diagram, its two lobes would be pointing directly at and away from you. This kind of hybridization occurs when a carbon atom is bonded to three other atoms. If it is a very simple molecule with just the carbon atom and the other three atoms, it would be a flat triangular molecule. If this is part of a larger molecule, this part would have a flat triangular shape.
+sp hybridization
+Type of hybridDiagramAtomic orbitals usedNumber of hybrid orbitals formedNumber of atoms bonded to the CGeometrysps, p22linearThere is still a third type of hybridization, it is sp hybridization. In it the s orbital and one of the p orbitals from carbon's second energy level are combined together to make two hybrid orbitals. Those hybrid orbitals form a straight line. There is a 180 degree angle between one orbital and the other orbital. They are exactly opposite one another from the center of the carbon atom. Because this type of sp hybridization only uses one of the p orbitals, there are still two p orbitals left which the carbon can use. Those p orbitals are at right angles to one another and to the line formed by the hybrid orbitals. If they were shown in this diagram, one would go straight up and down and the other would go straight toward and away from you. This kind of hybridization occurs when a carbon atom is bonded to two other atoms. 
+This is one of the harder concepts to picture.  Here is a link to an on-line animation of hybridization that may help you visualize it a little bit more easily.  (Do not concern yourself with the sp3d or sp3d2 hybridized orbitals.)  This link will open in a new window.
+A very important aspect of sp2 and sp hybridization is that they allow carbon atoms to form double and triple bonds. Let's look at those next.
+
+
+> Define hydrogen bonding its cause and types.
+* When highly electronegative elements form a covalent bond with the hydrogen atom, the electrons constituting the covalent bond are shifted towards the more electronegative atom. This results in a partial positive charge getting developed on the hydrogen atom which helps in the bond formation with the electronegative atoms of the other molecules. This particular bond is called the hydrogen bond and it is comparatively weaker than the covalent bond. We can see an example here; in HF molecule there is a hydrogen bond between the hydrogen atom of one molecule and the fluorine atom of another molecule.
+– – – H?+– F?- – – – H?+– F?-– – – H?+– F?-
+In this case, the hydrogen bond acts as a bridge between two atoms, where one atom is held by a covalent bond and the other atom are held by a hydrogen bond. In the structure above, the hydrogen bond is depicted by the dotted line (—) and the covalent bond is shown by solid line.
+So it can be said that a hydrogen bond is just an attractive force which binds the hydrogen atom of one molecule to the electronegative atoms (F, O or N) of another molecule.
+
+Cause of hydrogen bond formation
+The hydrogen atom is bonded with a highly electronegative element, and therefore the shared pair of electrons move away from the hydrogen atom towards the electronegative atom. Hydrogen atom becomes electropositive with respect to the electronegative element. This results in the development of positive charge over hydrogen atom and partial negative charge over the electronegative element. This further leads to the formation of a polar molecule with the electrostatic force of attraction. The magnitude of the H bond depends on the physical state of the compounds. It reaches a maximum value in solid state and minimum in the gaseous state.
+Types of Hydrogen bonding
+There are two types of H bonds, and it is classified as the following:
+1. Intermolecular hydrogen bonding – This type of bond formation occurs between the different molecules of same or different compounds. For example- hydrogen bonding in water and alcohol.
+2. Intramolecular hydrogen bonding – This type of bond formation occurs when the hydrogen atom lies in between the two electronegative elements present in the same molecule.
+CompoundMolar MassNormal Boiling PointH2O18 g/mol373 KHF20 g/mol292.5 KNH317 g/mol239.8 KH2S34 g/mol212.9 KHCl36.4 g/mol197.9 KPH334 g/mol185.2 K
+
+
+Water
+
+> What do you mean by water?
+* Water is a natural matter and its found in abundance in Earth. It may be seen as a compound of hydrogen and oxygen and produced by burning of hydrogen air. Water forms 75% of the total matter found on Earth.
+> What are the qualities of a drinking water?
+* Water obtained from different sources may not be proper for drinking. For drinkable waterm following properties are must:
+It should be
+1. Colourless
+2. Odourless 
+3. Pure
+4. Should not have micro organisms.
+5. Absence of dissolved harmful matters like nitrates, nitrites etc
+
+> Write methods for making water drinkable on a large scale.
+To purify drinking water on large scale following methods  are used:
+Collection of water:- 
+River or lake water is collected in big tanks. The tanks are open so that the water remains exposed to sunlight and air. Being undisturbed the insoluble impurities of the water settle down. Sun rays also destroy micro organisms present in the water.
+Filteration of water:-
+
+The water from the sedimentation tank is filtered through layers of sand and gravel. Filtration is also done through activated charcoal, which affords better-quality water. Activated charcoal is a special type of charcoal made by heating ordinary charcoal in vacuum. This charcoal holds the impurities strongly.
+
+Sterilization:-
+It is essential to destroy the micro organisms present in water. Following methods are used for sterilization.
+* Chlorination :-
+The filtered water is then treated with chlorine gas, which kills germs. You can see for yourself that alum helps the suspended particles of water to settle down quickly. Take two similar glasses containing equal volumes of muddy water and label them A and B. (You can prepare muddy water by mixing a teaspoonful of mud from your garden with the water in the glass.) 
+Crush a small crystal of alum (which you can obtain from a store) between the folds of a paper and add it to A. Stir the water in the two glasses and allow them to stand side by side. Within a short while, you will find that the mud has settled down with clear water above it in glass A, but the water is still not clear in glass B. 
+
+
+* Ozonisation:-
+Ozone is an allotropic form of oxygen, formed by the junction of three oxygen atoms. This compound has a great oxidation power, which turns it into a really powerful disinfectant. 
+Unlike chlorine, ozone is not affected by water pH variations, which makes the necessary dose to be quite constant in its value.
+Nevertheless, it is important to take into account that ozone is easily eliminated from water, which can lead into the proliferation of microorganisms due to the absence of residual disinfectant in the water current. This problem can be solved by adding a small amount of a different disinfectant, such as chlorine gas or chlorine dioxide, so that we can ensure that a residual amount of disinfectant will be found in treated water. This additional dose of disinfectant is really small because the totality of the organic matter has been already removed by the ozone.
+* With ultra violet rays:-
+Ultra violet rays are also a means to destroy the micro organisms. These rays are obtained from mercury lamp and are passed through the stream of water. This sterilizes the water within a very short period and does not impart any colour or odour to the water
+* By Aeration:-
+In this method water is thrown in air in the form of fountains so that it is effected by the ultraviolet rays of sun and sterilized.
+
+> What is distilled water?
+It is water that goes through a purification process called distillation, which replicates the earth’s natural hydrological cycle. The distillation process boils away impurities while capturing only H2O, resulting in water that is in its purest chemical form.
+What is distilled water used for?
+* Drinking Water
+* Automobiles
+* Laboratories 
+* Medical.
+> What is hard and soft water?
+Hard water:- Hard water, water that contains salts of calcium and magnesium principally as bicarbonates, chlorides, and sulfates. Ferrous iron may also be present; oxidized to the ferric form, it appears as a reddish brown stain on washed fabrics and enameled surfaces. Water hardness that is caused by calcium bicarbonate is known as temporary, because boiling converts the bicarbonate to the insoluble carbonate;
+Soft water:- soft water is water which has relatively low concentration of calcium carbonate and other ions . It contains less than 85.5 parts per million of calcium carbonate. 
+The water that lathers with soap easily is called or known as soft water. It describes type of water that contain few or no minerals like calcium (Ca) or magnesium (Mg) ions. The term is usually relative to hard water, which does contain significant amounts of such ions.
+> Causes of Hardenss
+* Presence of bicarbonates, chlorides and sulphates of calcium and magnesium makes the water hard.
+> What are the types of hardness?
+* Temporary hardness:- hard water contains dissolved magnesium and calcium ions. These make it more difficult for the water to form a lather with soap. Temporary hardness is caused by dissolved calcium hydrogencarbonate (which is removed by boiling). Permanent hardness is caused by dissolved calcium sulfate (which is not removed by boiling).
+Permanent hardness:- Hard water contains dissolved magnesium and calcium ions. These make it more difficult for the water to form a lather with soap. Temporary hardness is caused by dissolved calcium hydrogencarbonate (which is removed by boiling). Permanent hardness is caused by dissolved calcium sulfate (which is not removed by boiling).
+> Define the following:-
+a) Ppm
+b) Mg/l
+c) Clarke’s degree
+d) Degree French
+*  
+* Ppm:- The parts of CaCO3  equivalent hardness per 106 parts of water.
+* Mg/l:- no. of milligrams of CaCO3 equivalent hardness in per litre of water.
+* Calrke’s degree:- No. of grains(1 grain= 1/7000 lb) of CaCO3  equivalent hardness per gallon ( 10 lb) of water or CaCO3 equivalent hardenss per 70000 parts of water.
+* Degree French:- CaCO3 equivalent hardness per 105 parts of water.
+> Disadvantages of water in boilers
+*  In domestic use:
+(i) Washing: Hard water, when used for washing purposes, does not lather freely with soap. On the other hand, it produces sticky precipitates of calcium and magnesium soaps. The formation of such insoluble, sticky precipitated continues, till all calcium and magnesium salts present in water are precipitated. After that, the soap (e.g., sodium stearate) gives lather with water. Thus;
+
+This causes wastage of soap being used. Moreover, the sticky precipitate (of calcium and magnesium soaps) adheres on the fabric/cloth giving spots and streaks. Also presence of iron salts may cause staining of cloth.
+(ii) Bathing: Hard water does not lather freely with soap solution, but produces sticky scum on the bath-tub and body. Thus, the cleansing quality of soap is depressed and a lot of it is wasted.
+(iii) Cooking: Due to the presence of dissolved hardness-producing salts, the boiling point of water is elevated. Consequently, more fuel and time are required for cooking certain foods such as pulses, beans and peas do not cook soft in hard water. Also tea or coffee, prepared in hard water, has an unpleasant taste and muddy-looking extract. Moreover, the dissolved salts are deposited as carbonates on the inner walls of the water heating utensils.
+(iv)Drinking: Hard water causes bad effect on our digestive system. Moreover, the possibility of forming calcium oxalate crystals in urinary tracks is increased.
+10.1.2 Industrial use: (i) Textile industry: Hard water causes much of the soap (used in washing yarn, fabric etc.) to go as waste, because hard water cannot produce good quality of lather. Moreover, precipitated of calcium and magnesium soaps adhere to the fabrics. These fabrics, when dyed latter on, do not produce exact shades of color. Iron and manganese salts-containing water may cause colored spots on fabrics, thereby spoiling their beauty.
+(ii) Sugar industry: Water containing sulphates, nitrates, alkali carbonated, etc., if used in sugar refining, causes difficulties in the crystallization of sugar. Moreover, the sugar so-produced may be deliquescent.
+(iii) Dyeing industry: The dissolved calcium, magnesium and iron salts in hard water may react with costly dyes, forming undesirable precipitated, which yields impure shades and give spots on the fabrics being dyed.
+(iv) Paper industry: Calcium and magnesium salts tend to react with chemicals and other materials employed to provide a smooth and glossy (i.e., shining) finish to paper. Moreover, iron salts may even affect the color of the paper being produced.
+(v) Laundry: Hard water, if used in laundry, causes much of the soap used in washing to go as waste. Iron salts may even cause coloration of the clothes.
+(vi) Concrete making: Water containing chlorides and sulphates, if used for concrete making, affects the hydration of cement and the final strength of the hardened concrete.
+(vii) Pharmaceutical industry: Hard water, if used for preparing pharmaceutical products (like drugs, injections, ointments, etc.) may produce certain undesirable products in them.
+> What are the disadvantages of hard water in boilers?
+*  In steam generation in boilers: For steam generation, boilers are almost invariably employed. If the hard water is fed directly to the boilers, there arise many troubles such as: 
+(i) scale and sludge formation.
+(ii) corrosion
+(iii) priming and foaming .
+(iv) caustic embrittlement.
+
+> What do you mean by Foaming and Primming?
+* Sometimes, due to the presence of cation compounds, the surface tension of water is reduced and more lather is formed. This process of formation of lather on water surface in the boiler is called foaming. Due to rapid heating of water the bolier , the steam formed may be associate with water droplets. This phenomenon of formation of wet steam is called priming.  Due to this phenomenon, water along with steam also enters the pipeline of the boiler.
+Disadvantages:-
+
+* The exact height of water in the boiler can not judged.
+* The entry of water droplets along with steam in the boliers pipeline reduce the steam pressure and thus the fuel is wasted
+* If water droplets along with the steam also enters the machine, it is also corroded.
+           Prevention:-
+* Foaming and priming can be prevented by removing the sludge.
+* This phenomenon do aquire in absence of organic and oily substances, hence this should be removed from water.
+* This can be checked by adding cations substances like castor oil, tannic acid, gallic acid etc.
+> Removal of temporary hardness of water.
+* Temporary hardness can be removed using following methods:-
+o By boiling:-
+Salts like calcium bicarbonate and magnesium bicarbonate, when dissolved in water causes temporary hardness. While heating, soluble salts of calcium and magnesium (bicarbonates) change into insoluble salts. The chemical equations are as follows:
+Calcium bicarbonate ? Calcium carbonate + Carbon dioxide + Water
+Ca(HCO3)2 ? CaCO3 + CO2 + H2O
+Magnesium bicarbonate ? Magnesium carbonate + Carbon dioxide + Water
+Mg(HCO3)2 ? MgCO3 + CO2 + H2O
+o By clarke’s method:-
+Adding Slaked Lime (Clark's Process) :-
+
+In Clark's process, slaked lime, Ca(OH)2 is added to temporary hard water. Insoluble calcium carbonate precipitate out and no longer produce hardness.
+
+        
+o By chemical method:-
+The temporary hardness of water can be removed by treating it with lime water. The chemical equations are as follows:
+Calcium Bicarbonate + Calcium Hydroxide ? Calcium Carbonate + Water
+Ca(HCO3)2 + Ca(OH)2 ? 2CaCO3 + 2H2O
+Magnesium Bicarbonate + Calcium Hydroxide ? Calcium Carbonate + Magnesium Carbonate + Water
+Mg(HCO3)2 + Ca(OH)2 ? CaCO3 + MgCO3 + 2H2O
+> Removal of permanent hardness
+* Permanent hardness can be removed using following methods:-
+1. By soda lime method:-
+By this method both the hardness of water are removed. A mixture of soda and lime is mixed with hard water. Lime removes the temporary hardness while lime and soda together remove the permanent hardness of water.
+Soluble salts of calcium and magnesium change into insoluble salts due to the treatment with sodium carbonate (washing soda).
+Calcium Chloride + Sodium Carbonate ? Calcium Carbonate + Sodium Chloride
+CaCl2 + Na2CO3 ? CaCO3 + 2NaCl
+Magnesium Sulphate + Sodium Carbonate ? Magnesium Carbonate + Sodium Sulphate
+MgSO4 + Na2CO3 ? MgCO3 + Na2SO4
+2. By permutit process:-
+Permutit is the trade name for an artificially prepared sodium zeolite or sodium aluminium orthosilicate obtained by fusing together sodium carbonate silica and alumina. Its composition resembles Na2Al2SiO8 or Na2Z, where, Z stands for Zeolite = Al2SiO8. It possesses the higher quality of reactivity with calcium and magnesium ions forming insoluble calcium or magnesium zeolites.
+2Na2Z + Ca++ ? CaZ2 +4Na
+Thus by passing hard water through a cylinder packed with permutit, all the ions of soluble salts of calcium and magnesium responsible for the hardness of water are retained and replaced by sodium ions. In due course, however, the permutit is exhausted or losses its capacity of reacting with these salts by having given up all its sodium ions. This can be regenerated by soaking in a 10% solution of common salt when the reverse change takes place and calcium and magnesium ions pass into solution and sodium zeolite is formed again.
+CaZ2 + 2NaCl ? Na2Z + CaCl2
+MgZ2 + 2NaCl ? Na2Z + MgCl2
+The resulting calcium and magnesium chlorides are washed out and the regenerated permutit is used over again.
+
+
+
+Advantages of permutit process:-
+i. By this process water of very low hardness (10ppm) water can be produced. Even water of zero hardness can be produced.
+ii. the plant used in this process is compact and occupies little space.
+iii. No sludge is formed
+iv. The running cost is low.
+                       Disadvantages of this process:-
+i. It is not suitable to treat highly turbid water because turbidity slogs the process of permuted bed.
+ii. The process leaves sodium bicarbonate in water which causes foaming priming in boilers. Further in boilers NaHCO3 dissociates to form NaOH which causes caustic embrittlement.
+iii. The treated water contains more dissolved salts.
+iv. Water with high acidity or alkalinity cannot be treated as it destroys the permutit bed.
+By calgon process:- 
+In this process , Ca2+ and Mg2+ ions present in hard water arw rendered ineffective by treatment with sodium polymetaphosphate, ( NaPO3 ) x where x is as high as 100, or more commonly with sodium hexametaphosphate .
+Na2[ Na 4 ( PO3 ) 6] .
+The trade name for sodium hexametaphosphate is calgon ( Which means calcium gone )
+
+When calgon is added to hard water , Ca2+ and Mg2+ ions present in it combine with sodium hexametaphosphate to form soluble complex of calcium and maganesium salts .
+
+2CaCl2 + Na2[ Na4 ( PO3 )6] -------> Na2[Ca2(PO3)6] + 4NaCl
+
+2MgSo4 + Na2[ Na4(PO3)6 ---------->
+Na2[ Mg2(PO3)6] + 2Na2SO4
+
+The complex calcium and Maganisum ions don't form any precipitate with soap and hence readily produced lather with soap. 
+
+> O’ Henner’s Method for estimation of hardness of water
+* The estimation of water hardness as applied to boiler water and other water is great interest for the chemical industry in general.the determination of water hardness has always been an especially important factor in the manufacturing control of sugar industry, pharmaceuticals, food processing, leather, gums, adhesives, textiles etc.
+Determination of Hardness  by  O. Hehner’s Methods
+Temporary hardness is determined by finding the alkalinity of water before boiling and that left after boiling. This is because temporary hardness is removed on boiling.
+Ca(HCO3)2    ——–>   CaCO3 + H2O + CO2
+Mg(HCO3)2    ——–>   Mg(OH)2 + 2CO2
+Pipette out 50 ml of water sample in a conical flask. Add 2-3 drop of methyl orange indicator. Titrate againist N/50 HCl. Note the volume of acid used (asign V1 ml). Now take 100ml of water sample in a pyrex beaker and evaporate it to dryness. Add about 50 ml of distilled water, warm, stirr to dissolve the soluble portionleft. Filter the solution and wash the residue with distilled water. Make up the voulume to 100 ml in a measuring flask, by adding distilled water. Take 50 ml of this filtrate in a conical flask and titrate againist N/50 HCl using methyl orange as indicator. Left the volume of acid used be V2 ml.
+Volume of N/50 HCl used by temporary hardness present in 50 ml of water = (V1-V2)ml
+Alkalinity due to Temporary Hardness in 50 ml of water sample                  = (V1-V2)ml of N/50HCl
+Strength of alkalinity due to temporary hardness in terms of CaCO3 equivalents
+                                                                                                                                                              = (V1-V2) X 1 X 50 / 50 X 50
+                                                                                                                                                              = (V1-V2)/50g of CaCO3 eqt/litre
+                                                                                                                                                              = (V1-V2) X 100000/50 X 1000 ppm
+    Therfore Temporary Hardness = 20(V1-V2)ppm
+> Advantages and disadvantages of chlorination
+* Advantages:-
+i. It is an ideal method for the disinfection of water.
+ii. It is economical and powerful method.
+iii. It does not leave any impurity in water.
+            Disadvantages:-
+i. Excess of chlorination leaves disagreeable odour and makes the water distasteful.
+ii. Use of bleaching powder increases Ca2+ ions concentration, thus, increases the hardness of water.
+iii. Free chlorine in water causes burning of eyes and it attacks the mucous membrane of nose, bringing tears in eyes.
+
+
+
+

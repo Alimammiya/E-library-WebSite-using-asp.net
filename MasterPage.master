@@ -1,0 +1,181 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>LastNightStudys | Download any Education notes </title>
+    <link href="images/titallogo.png"  rel="icon" type="image/png"/>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import 'http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
+body {
+	margin: 0;
+ }
+
+
+ header {
+ 	background: Dodgerblue;
+ 	color: white;
+ 	padding: 8px 0px 6px 40px;
+ 	height: 45px;
+ }
+ header h1 {
+ 	display: inline;
+ 	font-family: 'Oswald', sans-serif;
+ 	font-weight: 400;
+ 	font-size: 32px;
+ 	float: left;
+ 	margin-top: 0px;
+ 	margin-right: 10px;
+  
+}
+ nav ul {
+     	
+ 	display: inline;
+ 	padding: 0px;
+ 	float: left;
+ }
+ nav ul li {
+ 	display:inline-black;
+ 	list-style-type: none;
+ 	color: white; 
+ 	float: left;
+ 	margin-left: 12px;
+  }
+ nav ul li a {
+ 	color: black;
+ 	text-decoration: none;
+ }
+ #nav {
+ 	font-family: 'Montserrat', sans-serif;
+  
+}
+ .homered {
+ 	background-color: lightgray;
+ 	padding: 30px 10px 18px 10px;
+ }
+ .divider {
+ 	background-color: lightgray;
+ 	height: 5px;
+   
+}
+ .homeblack:hover {
+ 	background-color: blue;
+ 	padding: 30px 10px 18px 10px;
+ }
+.img {
+	background-image: url('images/167524.jpg');
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.welcome {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	background-color: rgba(0,0,0,0.4);
+	color: orange;
+	font-size: 23px;
+}
+    .box{
+	margin: 0%;
+	position: absolute;
+	left: 65%;
+	transform: translate(40%,40%);
+
+}
+.box a{
+	text-decoration: none;
+	font-size: 40px;
+	margin: 5px;
+	display: flex;
+	width: 50px;
+	height: 50px;
+	justify-content: center;
+	align-items: center;
+	float: left;
+	transition: 0.5s all;
+	cursor: pointer;
+    }
+
+.fb{
+	background: #2980b9;
+}
+.tw {
+	background: #3498db;
+}
+.yb {
+	background: #e74c3c;
+}
+.wp {
+	background: #2ecc71;
+}
+.im {
+	background: #e67e22;
+}
+.box a:hover {
+	margin-top: -10px;
+
+}
+.logo img{
+	margin: 0px;
+	position: absolute;
+	margin-top: -8px;
+	margin-left: 10px;
+	width: 80px;
+	height: 59px;
+}
+
+        .logo img{
+		position: absolute;
+	    margin-top: -24px;
+        width: 80px;
+    	height: 59px;
+        left: 90%;          
+        }
+   </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+        <header>
+		<nav>
+			<h1>LastNightStudys</h1>
+            
+			<ul id="nav">
+				<b><li><a class="homeblack" href="Index.aspx">HOME</a></li>
+				<li><a class="homeblack" href="#">TUTORIAL</a></li>
+				<li><a class="homeblack" href="Notes.aspx">NOTES</a></li>
+				<li><a class="homeblack" href="Oldpapers.aspx">OLD PAPERS</a></li>
+				<li><a class="homeblack" href="Aboutus.aspx">ABOUT US</a></li>
+               <!-- <li><a class="homeblack" href="#">CONTACT US</a></li>   -->
+				<li><a class="homeblack" href="Default.aspx">FEEDBACK</a></li></b>
+                 
+                 <div class="logo"> <a href="Index.aspx"><img src="images/bestlogo.png"></a></div>
+   
+		</nav>
+	</header>
+	<div class="divider"></div>
+	<div class="img">
+		<h2 class="welcome">Welcome to <space style="color:white"> LastNightStudys</space>, your best source for latest notes of Technical Education.</h2>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+       </form>
+    <div class="box">
+		<a class="fb ion-social-facebook" href="#"></a>
+		<a class="tw ion-social-twitter" href="#"></a>
+		<a class="yb ion-social-youtube" href="#"></a>
+		<a class="wp ion-social-whatsapp" href="#"></a>
+		<a class="im ion-social-instagram" href="#"></a>
+	</div>
+    <footer> <p align="left"><font size="4"> Made by Alimam Miya & Ashutosh Negi</font></p></footer>
+    <footer><p align="left"> Copyright LastNightStudys.com 2018 &#169;</p></footer>
+     
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>4th Unit</title>
+  
+</head>
+<body>
+<table border="3px"width="900"   p align="center">
+<td border="1px" width="200">
+ <p style="text-align: center;"><strong><u><span style="font-size: 18.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">FUNCTIONS</span></u></strong></p>
+ <span style="font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">
+<B>(1.) What are the functions in c?</B><br>
+When the compiler encounters functionName(); inside the main function, control of the program jumps to<br>
+ void functionName()<br>
+And, the compiler starts executing the codes inside the user-defined function.<br>
+The control of the program jumps to statement next to functionName(); once all the codes inside the function definition are executed.<br>
+<b>images</b><br>
+Remember, function name is an identifier and should be unique.<br>
+This is just an overview on user-defined function. Visit these pages to learn more on:<br>
+•	User-defined Function in C programming<br>
+•	Types of user-defined Functions<br>
+<b>Advantages of user-defined function</b><br>
+1.	The program will be easier to understand, maintain and debug.<br>
+2.	Reusable codes that can be used in other programs<br>
+3.	A large program can be divided into smaller modules. Hence, a large project can be divided among many programmers.<br>
+<b>•	What is a function prototype?</b>s<br>
+A function prototype enables a compiler to compare carefully each use of the function with its prototype to determine whether the function is invoked properly. The number and types of arguments are compared and any wrong number or type of argument is reported as an error. A function prototype’s general form is as follows:<br>
+ Data_type function_name (parameter list);<br>
+<b>•	Define how functions are called in c with example</b><br>
+A function can be called by specifying its name followed by a list of arguments enclosed in parenthesis and separated by commas. If a function call does not require any arguments, empty pair of parenthesis must follow the function name. The arguments appearing in the function call are referred to  as actual arguments,  in contrast to the formal arguments that appear in the first line of function definition. Whenever a call statement is encountered the control is transferred from main function to the statements in the function body, when the statements in function body are executed the control is again get transferred to the main function<br>
+  <b>/* A simple program which shows the calling of a function */</b><br>
+#include<stdio.h/><br>
+#include<conio.h/><br>
+Void main()<br>
+{<br>
+Clrscr();<br>
+Printf(“ This is main function”);<br>
+Fun1();<br>
+Fun2();<br>
+Getch();<br>
+}<br>
+Fun1()<br>
+{<br>
+Printf(“This is function 1”);<br>
+}<br>
+Fun2()<br>
+{<br>
+Printf(“now you are in function 2”);<br>
+}<p>
+	<b>(2.)	 how are the function parameters are passed in a programme?</b><br>
+	<b>Call by value and call by reference in C</b><br>
+There are two ways to pass value or data to function in C language: call by value and call by reference. Original value is not modified in call by value but it is modified in call by reference.<br>
+<B>images</B><br>
+Let's understand call by value and call by reference in c language one by one<br>
+<b>Call by value in C</b><Br>
+In call by value, <b>original value is not modified.</b><br>
+In call by value, value being passed to the function is locally stored by the function parameter in stack memory location. If you change the value of function parameter, it is changed for the current function only. It will not change the value of variable inside the caller method such as main().<br>
+Let's try to understand the concept of call by value in c language by the example given below:<br>
+#include<stdio.h/>  <br>
+void change(int num) {  <br>  
+    printf("Before adding value inside function num=%d \n",num);   <br> 
+    num=num+100;    <br>
+    printf("After adding value inside function num=%d \n", num);  <br>  
+}    <br>
+int main() {    <br>
+    int x=100;    <br>
+    printf("Before function call x=%d \n", x);   <br> 
+    change(x);//passing value in function    <br>
+    printf("After function call x=%d \n", x);    <br>
+return 0;  <br>
+}    <br>
+<b>Output</b><br>
+Before function call x=100<br>
+Before adding value inside function num=100<br>
+After adding value inside function num=200<br>
+After function call x=100<p>
+	<b>Call by reference in C</b><br>
+	In call by reference, <b>original value is modified</b> because we pass reference (address).<br>
+Here, address of the value is passed in the function, so actual and formal arguments shares the same address space. Hence, value changed inside the function, is reflected inside as well as outside the function.<br>
+Note: To understand the call by reference, you must have the basic knowledge of pointers.<br>
+Let's try to understand the concept of call by reference in c language by the example given below:<br>
+#include<stdio.h/><br>  
+void change(int *num) {   <br> 
+    printf("Before adding value inside function num=%d \n",*num);   <br> 
+    (*num) += 100;    <br>
+    printf("After adding value inside function num=%d \n", *num);  <br>  
+}      <br>
+int main() {    <br>
+    int x=100;    <br>
+    printf("Before function call x=%d \n", x); <br>   
+    change(&x);//passing reference in function    <br>
+    printf("After function call x=%d \n", x);    <br>
+return 0;  <br>
+}    <br>
+<b>Output</b><br>
+Before function call x=100<br>
+Before adding value inside function num=100<br>
+After adding value inside function num=200
+After function call x=200<p>
+	<B>(3.)	What is the general form of a function?</B><br>
+	<b>General form of a function</b><br>
+return_type function_name( parameter list ) {<br>
+/*the body of the function*/<br>
+}<br>
+<b>Example</b><br>
+<b>images</b><br>
+The figure above is a simple example of a function with all its major components pointed out. Let's go through these, one by one. <p>
+<B>Components of a function</B><br>
+<b>Return-type:-</b> This specifies the data type of the value being returned by the function. A function may or may not return a value. If the function does not return a value then the return type is void. In this case, the return value is an integer value c, which means the return type would be int. <br>
+<b>Parameter list:-</b> The parameter list is the list of formal parameters being passed onto the function. In this case, there are two parameters of type int passed to the function. <br>
+<b>Local variables or local declarations:-</b> The variables that are declared inside the function are called local variables. The scope of these variables lies within the function and they are not accessible outside the function. <br>
+<b>Function body:-</b> A function body comprises of everything inside the curly brackets { and } following the return type, function name and the parameter list. <br>
+<b>Function Name:-</b> A function name can be anything that you want. The standard is to make it something related to what it is supposed to do. The naming convention follows the same rule as that of variable naming convention in C. <br>
+<b>Function declaration:-</b> A function declaration simply tells the compiler all about the function. These include the function's name, the return type and the number and types of parameters. The body of the function having the function definition can be defined somewhere else. A function declaration has the following parts: <br>
+return_type function_name( parameter list ); <br>
+The example above can be declared as follows: <br>
+int sum(int num1, int num2);<br>
+or <br>
+int sum(int, int);<p>
+	<b>(4.)	What is the difference between call by value and call by reference?</b><br>
+<b>  Difference between call by value and call by reference in c</b><br>
+<b>Call by value:-</b>• A copy of value is passed to the function.<br>
+• Changes made inside the function is not reflected on other functions<br>
+• Actual and formal arguments will be created in different memory location<br>
+<b>Call by reference:-</b>• An address of value is passed to the function<br>
+• Changes made inside the function is reflected outside the function also<br>
+• Actual and formal arguments will be created in same memory location<br>
+
+
+
+
+
+
+
+
+</span>
+</td>
+</table>
+</body>
+</html>

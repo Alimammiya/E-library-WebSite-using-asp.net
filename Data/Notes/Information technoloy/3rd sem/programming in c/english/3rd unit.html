@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3rd Unit</title>
+  
+</head>
+<body>
+<table border="3px"width="900"   p align="center">
+<td border="1px" width="200">
+ <p style="text-align: center;"><strong><u><span style="font-size: 18.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">CONTROL STRUCTURES</span></u></strong></p>
+ <span style="font-size: 14.0pt; line-height: 107%; font-family: 'Times New Roman',serif;">
+ 	<b>(1.)	What are the control statements in c?</b><br>
+ 	We generally follow a sequence in the program but at times we would just want to execute only selected statements.<br>
+•	This type of conditional processing is really useful to the programs.<br>
+•	It allows the programmers to build the programs that determine which statements of the code should be executed and which are to be ignored.<br>
+•	Control statements controls the sequence of a program and define its jump from one instruction to another.<P>
+	<b>(2.) 	Define the conditional statements and their types in c</b><br>
+	<b>Conditional statements</b><br>
+<b>The conditional statements are:-</b><br>
+<b>1. if statement</b><br>
+It is one of the most simple form of decision control statements which is frequently used in decision making.<br>
+<b>Syntax:-</b><br>
+if (test expression)<br>
+{<br>
+    statement 1;<br>
+    …...............<br>
+    statement n;<br>
+}<br>
+statement x;<br>
+<b>images</b><br>
+•	The if structure may have one statement or n number of statements which are enclosed within the curly braces ({ }).<br>
+•	Initially the test expression is evaluated.<br>
+•	If this expression is true the statement of the if block is executed or all the statements will be skipped and statement x will be executed.<br>
+<b>Example: Demonstrating an if statement</b><br>
+<b>Write a program to print the highest number.</b><br>
+#include <stdio.h/><br>
+void main()<br>
+{<br>
+    int n;<br>
+    printf("Enter a number:");<br>
+    scanf("%d", &n);<br>
+    printf ("The entered number %d", n);<br>
+    if (n>100)<br>
+        printf ("You entered a higher number");<br>
+}<br>
+In the above program, a number is accepted as an input from the user and the output is given. The expression (n>100) is given. If the user gives a number higher than 100 then only will the message be printed else the statement will be skipped.</P>
+<b>2. If-else statement</b>
+There are times where we would like to write that if the expression is true an action should be taken and if the expression is false there would be no action. We can also include an action for both the conditions. <br>
+In such cases, we use the if-else statement. <br>
+<b>Syntax:-</b><br>
+if (expression)<br>
+    Statement 1;<br>
+else<br>
+    Statement 2;<br>
+If the expression is true statement 1 will be executed and if the expression is false statement 2 will be executed.<br>
+<b>images</b><br>
+<b>Example: Program for leap year</b><br>
+#include <stdio.h/><br>
+void main()<br>
+{<br>
+     int yr;<br>
+     clrscr();<br>
+     printf("Enter a year:");<br>
+     scanf("%d", &yr);<br>
+     if ((yr%4 == 0) && ((yr%100 !=0) || (yr%400==0)))<br>
+         printf("It's a leap year...!!!!");<br>
+     else <br>
+         printf ("It's not a leap year....!!!");<br>
+}<br>
+<b>Output:</b>
+Enter a year: 1997<br>
+It's not a leap year...!!!<p>
+	<b>3. if-else-if statement</b>
+•	This statement works in the normal way as the if statement.<br>
+•	Its construct is known as the nested if statement. <br>
+•	After the first if branch the program can have many other else-if branches depending on the expressions that need to be tested.<br>
+<b>Syntax:</b><br>
+if (test expression 1)<br>
+{<br>
+    statement block 1;<br>
+}<br>
+else if (test expression 2)<br>
+{<br>
+    statement block 2<br>;
+}<br>
+....................<br>
+else<br>
+{<br>
+    statement block x;<br>
+}<br>
+statement y;<br>
+<b>images</b><br>
+<b>Example: Program to find largest of the three numbers by using && operator.</b><br>
+#include <stdio.h/><br>
+void main()<br>
+{<br>
+     int n1=10, n2=30, n3=75;<br>
+     if (n1>n2 && n1>n3)<br>
+         printf("%d is the largest number",n1);<br>
+     if(n2>n1 && n2>n3)<br>
+         printf("%d is the largest number", n2);<br>
+     else<br>
+         printf("%d is the largest number", n3);<br>
+}<br>
+<b>Output:</b><br>
+75 is the largest number.</p>
+<b>4. Switch case</b><br>
+This case statement is a multi-way decision statement which is a simpler version of the if-else block which evaluates only one variable.<br>
+<b>Syntax:</b><br>
+switch (expression)<br>
+{<br>
+     case expression 1: statement 1;<br>
+          statement 2;<br>
+          ............<br>
+          statement n;<br>
+          break;<br>
+     case expression 2: statement 1;<br>
+          statement 2;<br>
+          ..........<br>
+          statement n;<br>
+          break;<br>
+     default: statement 1;<br>
+          statement 2;<br>
+          ...........<br>
+          statement n;<br>
+} <br>
+<b> images</b><br>
+All the expressions should have a result of an integer value or the character value.<br>
+<b>Example: Write a program to check if the character entered is a vowel or not.</b><br>
+#include <stdio.h/><br>
+void main( )<br>
+{<br>
+     char ch;<br>
+     printf("Enter any character:");<br>
+     scanf("%c", &ch);<br>
+     switch(ch)<br>
+     {<br>
+         case 'A':<br>
+         case 'a':<br>
+         case 'E':<br>
+         case 'e':<br>
+         case 'I':<br>
+         case 'i':<br>
+         case 'O':<br>
+         case 'o':<br>
+         case 'U':<br>
+         case 'u':<br>
+             printf("%c is a vowel",ch);<br>
+             break;<br>
+        default:<br>
+             printf("%c is not a vowel", ch);<br>
+     }<br>
+}<br>
+<b>Output:</b>
+Enter any character: c<br>
+c is not a vowel.<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+</td>
+</table>
+</body>
+</html>
