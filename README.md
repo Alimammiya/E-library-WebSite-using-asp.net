@@ -4,5 +4,5 @@ This is my E-library websites
 You can add your notes, videos lectures, old question paper etc..
 Thank you...
 
-https://www.technical-education.com , This is my websites, plz visit it , and share your feedback.., Thank you
-<a href="https://www.technical-education.com ">Technical Education</a>
+<a href="https://www.technical-education.com ">Technical Education</a>, This is my websites, plz visit it , and share your feedback.., Thank you
+
